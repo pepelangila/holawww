@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-30 02:39:35 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/sausage": {
     "criteria": {
       "has_cooked_beef": "2025-01-30 01:34:30 +0000"
@@ -122,6 +128,12 @@
   "bakery:recipes/mud_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-01-30 02:40:39 +0000"
     },
     "done": true
   },
@@ -498,6 +510,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-30 01:58:29 +0000"
@@ -651,6 +669,12 @@
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-01-30 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-30 02:36:33 +0000"
     },
     "done": true
   },
@@ -817,6 +841,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 02:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-30 01:20:44 +0000"
@@ -874,6 +904,12 @@
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-01-30 02:41:10 +0000"
     },
     "done": true
   },
@@ -946,6 +982,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-30 02:39:35 +0000"
     },
     "done": true
   },
@@ -1189,9 +1231,27 @@
     },
     "done": true
   },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-30 02:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-30 02:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-30 02:38:06 +0000"
     },
     "done": true
   },
@@ -1567,6 +1627,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-30 02:39:35 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-01-30 01:30:50 +0000"
@@ -1771,6 +1837,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-01-30 02:39:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-01-30 01:24:23 +0000"
@@ -1879,9 +1951,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-30 02:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-30 02:37:59 +0000"
     },
     "done": true
   },
@@ -1918,6 +2002,12 @@
   "dungeonnowloading:recipes/misc/spawner_frame": {
     "criteria": {
       "has_spawner_fragment": "2025-01-30 02:01:47 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
     },
     "done": true
   },
@@ -1999,6 +2089,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:34:29 +0000"
@@ -2044,6 +2140,12 @@
   "bakery:recipes/strawberry_crate": {
     "criteria": {
       "has_strawberry": "2025-01-30 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
     },
     "done": true
   },
@@ -2345,6 +2447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:34:29 +0000"
@@ -2389,6 +2497,12 @@
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2025-01-30 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
     },
     "done": true
   },
@@ -2448,6 +2562,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-01-30 02:37:09 +0000",
       "apple": "2025-01-30 02:17:58 +0000",
       "bread": "2025-01-30 01:22:32 +0000",
       "suspicious_stew": "2025-01-30 01:28:10 +0000",
@@ -2557,6 +2672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-30 02:40:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2025-01-30 02:03:48 +0000"
@@ -2614,6 +2735,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-30 02:36:33 +0000"
     },
     "done": true
   },

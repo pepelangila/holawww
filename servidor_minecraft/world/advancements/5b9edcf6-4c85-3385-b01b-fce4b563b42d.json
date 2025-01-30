@@ -938,6 +938,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-01-30 02:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
@@ -1215,6 +1221,12 @@
   "netherexp:recipes/basalt/slab": {
     "criteria": {
       "has_item": "2025-01-30 01:34:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-01-30 02:37:09 +0000"
     },
     "done": true
   },
@@ -1498,6 +1510,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-30 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-30 02:37:09 +0000"
     },
     "done": true
   },
@@ -1810,6 +1828,12 @@
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-30 01:58:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-01-30 02:43:14 +0000"
     },
     "done": true
   },
