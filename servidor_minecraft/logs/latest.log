@@ -1213,3 +1213,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Jan2025 01:26:38.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Betrayed Guzzler
 [30Jan2025 01:26:41.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
 [30Jan2025 01:26:45.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Mimic
+[30Jan2025 01:28:55.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:29:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Dungeon Now Loading]
+[30Jan2025 01:29:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Wild Crops]
+[30Jan2025 01:29:48.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Dungeon Now Loading]
+[30Jan2025 01:30:12.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 01:30:21.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=184, y=65, z=96} BlockPos{x=184, y=63, z=94}
+[30Jan2025 01:30:21.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=184, y=65, z=96} BlockPos{x=184, y=63, z=94}
+[30Jan2025 01:30:49.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Into Fire]
+[30Jan2025 01:30:49.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Ice Bucket Challenge]
+[30Jan2025 01:30:50.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Tools of the Trade]
+[30Jan2025 01:31:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was toasted by Pyromancer's flaming breath
+[30Jan2025 01:31:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 01:31:05.515] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:05.515] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:05.516] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:05.516] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:05.516] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:05.520] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:05.521] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:31:38.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Stone Age]
+[30Jan2025 01:31:46.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:33:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Wild Crops]
+[30Jan2025 01:34:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Acquire Hardware]
+[30Jan2025 01:34:49.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:35:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Isn't It Iron Pick]
+[30Jan2025 01:36:09.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:36:10.748] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.749] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.749] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.754] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.754] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.764] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.764] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.764] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.768] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:10.768] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 01:36:29.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Monster Hunter]
+[30Jan2025 01:37:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:37:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Tools of the Trade]
+[30Jan2025 01:37:59.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov went off with a bang thanks to Archevoker
+[30Jan2025 01:38:01.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Isn't It Iron Pick]
+[30Jan2025 01:38:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:38:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[30Jan2025 01:38:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov went off with a bang thanks to Archevoker
+[30Jan2025 01:39:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[30Jan2025 01:39:13.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 01:40:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was shot by Pillager
+[30Jan2025 01:40:13.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[30Jan2025 01:40:18.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:41:47.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:42:04.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[30Jan2025 01:42:07.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov went off with a bang thanks to Archevoker
+[30Jan2025 01:44:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[30Jan2025 01:44:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was caught by Archevoker's fangs
+[30Jan2025 01:44:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 01:44:27.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Into Fire]
+[30Jan2025 01:44:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:44:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was doomed to fall by Archevoker
+[30Jan2025 01:44:30.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov fell from a high place
+[30Jan2025 01:44:42.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:46:08.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov went off with a bang thanks to Archevoker
+[30Jan2025 01:46:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:46:23.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Stone Age]
+[30Jan2025 01:46:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[30Jan2025 01:46:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:47:42.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:47:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:48:36.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov went off with a bang thanks to Archevoker
+[30Jan2025 01:48:38.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 01:48:51.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was eviscerated by Archevoker's vexes
+[30Jan2025 01:48:54.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
