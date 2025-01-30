@@ -1149,3 +1149,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Jan2025 23:33:55.280] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Jan2025 23:33:55.280] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Jan2025 23:33:55.281] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.011] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.012] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.022] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.024] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.024] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.037] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.040] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.046] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.046] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.046] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:08.046] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:42:23.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3899, l='ServerLevel[youtube]', x=-5.50, y=-59.00, z=-2.50] died, message: 'Villager suffocated in a wall'
+[30Jan2025 23:42:23.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3900, l='ServerLevel[youtube]', x=-3.50, y=-59.00, z=-2.50] died, message: 'Villager suffocated in a wall'
+[30Jan2025 23:42:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 23:45:28.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Cave Spider
+[30Jan2025 23:45:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 23:45:34.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cave Spider
+[30Jan2025 23:45:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Dark Metallurgy]
+[30Jan2025 23:45:42.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Cave Spider
+[30Jan2025 23:45:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 23:46:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by xiomy_zzz
+[30Jan2025 23:47:46.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 790.500000, 74.000000, 821.500000]
+[30Jan2025 23:47:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 23:47:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Dark Metallurgy]
+[30Jan2025 23:48:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cave Spider
+[30Jan2025 23:48:51.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by MacacoEliTrulov
+[30Jan2025 23:49:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 23:50:02.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 23:50:06.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Vex
+[30Jan2025 23:50:31.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Vex
+[30Jan2025 23:50:35.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
+[30Jan2025 23:50:50.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
