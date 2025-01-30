@@ -128,14 +128,16 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "muddy_river": "2025-01-30 01:13:46 +0000",
-      "maple_forest": "2025-01-30 01:12:43 +0000"
+      "maple_forest": "2025-01-30 01:12:43 +0000",
+      "boreal_forest": "2025-01-30 02:28:42 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "muddy_river": "2025-01-30 01:13:46 +0000",
-      "maple_forest": "2025-01-30 01:12:43 +0000"
+      "maple_forest": "2025-01-30 01:12:43 +0000",
+      "boreal_forest": "2025-01-30 02:28:42 +0000"
     },
     "done": false
   },
@@ -264,6 +266,7 @@
       "minecraft:taiga": "2025-01-30 02:22:29 +0000",
       "minecraft:river": "2025-01-30 01:34:34 +0000",
       "minecraft:forest": "2025-01-30 01:18:20 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-30 02:26:26 +0000",
       "minecraft:meadow": "2025-01-30 02:21:39 +0000",
       "minecraft:plains": "2025-01-30 01:36:36 +0000"
     },
@@ -1019,6 +1022,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-30 02:33:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-01-30 02:02:06 +0000"
@@ -1170,6 +1179,12 @@
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-01-30 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 02:33:57 +0000"
     },
     "done": true
   },
@@ -1756,6 +1771,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-30 02:33:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-30 01:39:49 +0000"
@@ -1765,6 +1786,12 @@
   "witherstormmod:recipes/redstone/firework_bundle": {
     "criteria": {
       "has_barrel": "2025-01-30 01:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-30 02:33:57 +0000"
     },
     "done": true
   },
@@ -2122,6 +2149,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-30 02:33:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_fence": {
     "criteria": {
       "has_stick": "2025-01-30 01:29:29 +0000"
@@ -2161,6 +2194,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-30 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 02:33:57 +0000"
     },
     "done": true
   },
@@ -2377,6 +2416,12 @@
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-30 01:27:28 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-30 02:32:47 +0000"
     },
     "done": true
   },
@@ -2645,6 +2690,12 @@
   "netherexp:recipes/basalt/wall": {
     "criteria": {
       "has_item": "2025-01-30 01:34:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-30 02:33:57 +0000"
     },
     "done": true
   },
