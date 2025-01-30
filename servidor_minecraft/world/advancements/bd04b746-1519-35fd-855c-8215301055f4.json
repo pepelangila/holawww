@@ -1,297 +1,1053 @@
 {
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "takesapillage:root": {
     "criteria": {
-      "always": "2025-01-27 18:18:53 +0000"
+      "always": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-01-30 01:18:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-01-30 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-01-27 18:18:53 +0000"
+      "unlock_right_away": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-30 01:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-01-27 18:18:53 +0000"
+      "custom_test_name": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-01-30 01:19:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-01-30 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-01-30 01:22:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-30 01:20:53 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2025-01-27 18:18:53 +0000"
+      "tick": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-01-30 01:18:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-30 01:22:44 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-30 01:24:10 +0000"
     },
     "done": true
   },
   "the_bumblezone:root": {
     "criteria": {
-      "instant_granted": "2025-01-27 18:18:53 +0000"
+      "instant_granted": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-01-30 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 01:24:10 +0000"
     },
     "done": true
   },
   "bakery:main/root": {
     "criteria": {
-      "seeds": "2025-01-27 18:18:53 +0000"
+      "seeds": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-01-30 01:17:55 +0000"
     },
     "done": true
   },
   "call_of_drowner:cod": {
     "criteria": {
-      "cod_0": "2025-01-27 18:18:53 +0000"
+      "cod_0": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2025-01-30 01:21:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-01-30 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-30 01:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2025-01-27 18:18:53 +0000"
+      "always": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-30 01:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-30 01:20:44 +0000"
     },
     "done": true
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
-      "custom_test_name": "2025-01-27 18:18:53 +0000"
+      "custom_test_name": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "bornin_chaos_0": "2025-01-27 18:18:53 +0000"
+      "bornin_chaos_0": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-01-30 01:24:10 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "regions_unexplored:parent": {
     "criteria": {
-      "load_in_world": "2025-01-27 18:18:54 +0000"
+      "load_in_world": "2025-01-30 01:10:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-30 01:18:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-01-30 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-01-30 01:18:27 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-01-30 01:20:40 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-01-30 01:18:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-01-30 01:22:29 +0000"
     },
     "done": true
   },
   "legendary_monsters:end_root": {
     "criteria": {
-      "custom_test_name": "2025-01-27 18:18:53 +0000"
+      "custom_test_name": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "faded_conquest_2:faded_2": {
     "criteria": {
-      "faded_2_0": "2025-01-27 18:18:53 +0000"
+      "faded_2_0": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-01-30 01:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-01-30 01:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-30 01:20:11 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-30 01:20:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-01-30 01:20:11 +0000"
     },
     "done": true
   },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
-      "requirement": "2025-01-27 18:18:53 +0000"
+      "requirement": "2025-01-30 01:10:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-30 01:22:32 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:mage_class": {
+    "criteria": {
+      "mage_class_0": "2025-01-30 01:16:56 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-01-27 18:18:53 +0000"
+      "custom_test_name": "2025-01-30 01:10:14 +0000"
     },
     "done": true
   },
   "vinery:main/root": {
     "criteria": {
-      "seeds": "2025-01-27 18:18:53 +0000"
+      "seeds": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
+    "criteria": {
+      "has_maple_shrub": "2025-01-30 01:18:21 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-01-30 01:18:49 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/mauve_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "autumnal_maple_forest": "2025-01-27 18:18:54 +0000",
-      "cold_river": "2025-01-27 18:20:25 +0000"
+      "muddy_river": "2025-01-30 01:11:13 +0000",
+      "maple_forest": "2025-01-30 01:10:15 +0000"
     },
     "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-01-27 18:18:53 +0000"
+      "seeds": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-30 01:20:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "the_bumblezone:wiki": {
     "criteria": {
-      "instant_granted": "2025-01-27 18:18:53 +0000"
+      "instant_granted": "2025-01-30 01:10:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-30 01:20:59 +0000"
     },
     "done": true
   },
   "brewery:main/root": {
     "criteria": {
-      "seeds": "2025-01-27 18:18:53 +0000"
+      "seeds": "2025-01-30 01:10:14 +0000"
     },
     "done": true
   },
   "rpgsmw:choose_your_class": {
     "criteria": {
-      "choose_your_class_0": "2025-01-27 18:18:53 +0000"
+      "choose_your_class_0": "2025-01-30 01:10:14 +0000"
     },
     "done": true
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "autumnal_maple_forest": "2025-01-27 18:18:54 +0000",
-      "cold_river": "2025-01-27 18:20:25 +0000"
+      "muddy_river": "2025-01-30 01:11:13 +0000",
+      "maple_forest": "2025-01-30 01:10:15 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-30 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-30 01:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-01-30 01:18:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-30 01:22:32 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-01-30 01:18:28 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:nether_root": {
     "criteria": {
-      "custom_test_name": "2025-01-27 18:18:53 +0000"
+      "custom_test_name": "2025-01-30 01:10:14 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-30 01:20:44 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/tools/amulet": {
+    "criteria": {
+      "has_emerald": "2025-01-30 01:20:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2025-01-27 18:20:22 +0000"
+      "in_water": "2025-01-30 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-30 01:20:12 +0000"
     },
     "done": true
   },
