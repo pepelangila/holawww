@@ -1065,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-30 02:14:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-30 01:46:23 +0000"
@@ -1192,6 +1198,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-01-30 01:48:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-30 02:13:19 +0000"
     },
     "done": true
   },
@@ -1493,6 +1505,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-30 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-30 02:05:00 +0000"
     },
     "done": true
   },
@@ -2433,6 +2451,12 @@
       "rabbit_stew": "2025-01-30 01:39:49 +0000"
     },
     "done": false
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2025-01-30 02:13:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {

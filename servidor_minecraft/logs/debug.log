@@ -7087,3 +7087,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Jan2025 02:04:17.072] [Worker-Main-2/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
 [30Jan2025 02:04:58.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
 [30Jan2025 02:04:58.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[30Jan2025 02:09:12.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 02:09:58.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[30Jan2025 02:09:58.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[30Jan2025 02:10:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Scarlet Temptation]
+[30Jan2025 02:12:14.586] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=573, y=-32, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.586] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=573, y=-31, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.586] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=573, y=-32, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.586] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=573, y=-31, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.587] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=573, y=-32, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.587] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=573, y=-31, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.587] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-32, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.588] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-31, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.588] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-30, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.588] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-32, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.589] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-31, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.589] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-30, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.589] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-29, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.589] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-32, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.589] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-31, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.590] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=574, y=-30, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.590] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-29, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.590] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-29, z=335}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.590] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-32, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.590] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-31, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.591] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-30, z=332}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.591] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-32, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.591] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-31, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.591] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-30, z=333}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.592] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-31, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:14.592] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [35, 20], pos: BlockPos{x=575, y=-30, z=334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[30Jan2025 02:12:30.251] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=161, y=5, z=352}
+[30Jan2025 02:12:30.251] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=162, y=5, z=333}
+[30Jan2025 02:12:45.221] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=161, y=5, z=352}
+[30Jan2025 02:12:45.222] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=155, y=5, z=357}
+[30Jan2025 02:12:49.680] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=143, y=5, z=352}
+[30Jan2025 02:12:49.681] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=135, y=-9, z=357}
+[30Jan2025 02:13:03.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 02:13:05.202] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 02:13:05.518] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=406, y=5, z=432} but found not block entity block Block{minecraft:water}[level=1] at location
+[30Jan2025 02:13:05.518] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=406, y=5, z=432}
+[30Jan2025 02:13:09.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 02:13:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Vex
+[30Jan2025 02:13:18.697] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[30Jan2025 02:13:19.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Scarlet Temptation]
+[30Jan2025 02:13:20.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 02:13:39.021] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[30Jan2025 02:13:39.027] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[30Jan2025 02:14:08.333] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=5, z=368}
+[30Jan2025 02:14:08.337] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=125, y=3, z=358}
+[30Jan2025 02:14:08.337] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=143, y=5, z=352}
+[30Jan2025 02:14:08.338] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=135, y=-9, z=357}
+[30Jan2025 02:14:08.341] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=112, y=5, z=368}
+[30Jan2025 02:14:29.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Sweet Dreams]
+[30Jan2025 02:14:54.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Sweet Dreams]
+[30Jan2025 02:14:56.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> ZZZZ
+[30Jan2025 02:14:58.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[30Jan2025 02:14:58.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[30Jan2025 02:15:27.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 02:16:59.505] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:16:59.505] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:16:59.505] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:16:59.506] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:17:01.584] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:17:01.584] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:17:01.584] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:17:01.585] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 02:17:03.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 02:18:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[30Jan2025 02:18:32.150] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 02:18:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
