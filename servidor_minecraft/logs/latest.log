@@ -1145,3 +1145,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Jan2025 23:29:39.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
 [30Jan2025 23:30:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Corpse Fly
 [30Jan2025 23:30:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 23:33:55.279] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:33:55.280] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:33:55.280] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Jan2025 23:33:55.281] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
