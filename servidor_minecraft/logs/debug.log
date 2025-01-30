@@ -7068,3 +7068,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Jan2025 01:57:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
 [30Jan2025 01:58:52.486] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: 5b9edcf6-4c85-3385-b01b-fce4b563b42d data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=ebfb1e69-330a-4970-8bca-f5625c90681a, length=81, extra={valid=false}}, startingAt=0, player=null}
 [30Jan2025 01:58:59.122] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: bd04b746-1519-35fd-855c-8215301055f4 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=6f792aad-0589-47d1-900d-60d52337d77b, length=26, extra={valid=true}}, startingAt=0, player=null}
+[30Jan2025 01:59:05.140] [Netty Epoll Server IO #3/DEBUG] [emotecraft/]: [emotes server] Received data from: bd04b746-1519-35fd-855c-8215301055f4 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=6f792aad-0589-47d1-900d-60d52337d77b, emoteData=null, startingAt=0, player=null}
+[30Jan2025 01:59:58.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[30Jan2025 01:59:58.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[30Jan2025 02:01:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has reached the goal [Exorcism]
+[30Jan2025 02:01:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Pillager
+[30Jan2025 02:01:53.689] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 02:02:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 02:02:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 02:02:34.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Not Today, Thank You]
+[30Jan2025 02:02:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was shot by Skeleton
+[30Jan2025 02:02:37.352] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[30Jan2025 02:02:39.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 02:02:48.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 02:03:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was shot by Skeleton
+[30Jan2025 02:03:09.094] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[30Jan2025 02:03:10.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[30Jan2025 02:04:17.072] [Worker-Main-2/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
+[30Jan2025 02:04:58.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[30Jan2025 02:04:58.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube

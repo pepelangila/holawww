@@ -891,6 +891,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-01-30 02:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-30 02:04:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-01-30 01:39:39 +0000"
@@ -936,6 +948,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-30 01:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
     },
     "done": true
   },
@@ -993,6 +1011,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-01-30 01:29:32 +0000"
@@ -1017,9 +1041,21 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_druid_circle": "2025-01-30 02:00:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-30 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-30 01:57:59 +0000"
     },
     "done": true
   },
@@ -1039,7 +1075,9 @@
     "criteria": {
       "minecraft:pillager": "2025-01-30 01:47:59 +0000",
       "minecraft:skeleton": "2025-01-30 01:26:28 +0000",
-      "minecraft:vindicator": "2025-01-30 01:36:59 +0000"
+      "minecraft:vindicator": "2025-01-30 01:36:59 +0000",
+      "minecraft:spider": "2025-01-30 02:01:00 +0000",
+      "minecraft:zombie": "2025-01-30 02:03:00 +0000"
     },
     "done": false
   },
@@ -1052,6 +1090,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-30 01:52:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
     },
     "done": true
   },
@@ -1163,6 +1207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-30 01:39:49 +0000"
@@ -1172,6 +1222,12 @@
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-30 01:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
     },
     "done": true
   },
@@ -1214,6 +1270,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-30 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
     },
     "done": true
   },
@@ -1398,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-30 01:52:14 +0000"
@@ -1440,6 +1508,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-01-30 02:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-30 01:46:23 +0000"
@@ -1452,9 +1526,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-30 02:02:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-01-30 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-30 02:04:16 +0000"
     },
     "done": true
   },
@@ -1491,6 +1577,12 @@
   "bakery:recipes/wall_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-01-30 01:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
     },
     "done": true
   },
@@ -1608,6 +1700,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-30 01:58:05 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-01-30 01:48:45 +0000"
@@ -1617,6 +1715,12 @@
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-01-30 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
     },
     "done": true
   },
@@ -1647,6 +1751,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
     },
     "done": true
   },
@@ -1740,9 +1850,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-30 01:58:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-01-30 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-30 02:04:16 +0000"
     },
     "done": true
   },
@@ -1779,6 +1907,18 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-30 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
     },
     "done": true
   },
@@ -1830,6 +1970,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_druid_circle": "2025-01-30 02:00:29 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2025-01-30 01:29:45 +0000"
@@ -1878,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_fence": {
     "criteria": {
       "has_stick": "2025-01-30 01:29:29 +0000"
@@ -1887,6 +2039,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-30 01:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-30 02:04:16 +0000"
     },
     "done": true
   },
@@ -1926,6 +2084,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cobblestone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
@@ -1941,6 +2111,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:58:05 +0000"
     },
     "done": true
   },
@@ -2034,9 +2210,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-30 02:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-30 01:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-30 02:04:16 +0000"
     },
     "done": true
   },
@@ -2058,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 01:57:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-30 01:39:49 +0000"
@@ -2070,9 +2264,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-30 02:01:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-30 01:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
     },
     "done": true
   },
@@ -2094,6 +2300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-30 02:04:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
@@ -2109,6 +2321,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-30 01:34:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 02:04:18 +0000"
     },
     "done": true
   },
@@ -2240,9 +2458,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-01-30 01:48:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-30 02:02:36 +0000"
     },
     "done": true
   },
@@ -2273,6 +2503,12 @@
   "bakery:recipes/stone_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-30 02:02:06 +0000"
     },
     "done": true
   },
