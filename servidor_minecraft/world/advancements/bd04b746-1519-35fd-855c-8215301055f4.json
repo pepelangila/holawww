@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-30 02:19:09 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/butter": {
     "criteria": {
       "has_the_recipe": "2025-01-30 01:31:24 +0000"
@@ -290,6 +296,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-30 01:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
     },
     "done": true
   },
@@ -396,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-01-30 01:24:10 +0000"
@@ -459,6 +477,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-30 01:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-30 02:21:54 +0000"
     },
     "done": true
   },
@@ -659,6 +683,12 @@
       "has_iron_ingot": "2025-01-30 01:34:29 +0000"
     },
     "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2025-01-30 02:24:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
@@ -1009,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 02:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-30 02:01:32 +0000"
@@ -1036,6 +1072,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-30 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
     },
     "done": true
   },
@@ -1132,6 +1174,12 @@
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2025-01-30 01:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
     },
     "done": true
   },
@@ -1759,6 +1807,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-30 02:19:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-30 01:22:32 +0000"
@@ -1882,6 +1936,12 @@
   "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
     "criteria": {
       "has_maple_shrub": "2025-01-30 01:18:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-30 02:19:09 +0000"
     },
     "done": true
   },
@@ -2011,6 +2071,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/stick_from_birch_branch": {
+    "criteria": {
+      "has_birch_branch": "2025-01-30 02:24:22 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-01-30 01:58:29 +0000"
@@ -2075,6 +2141,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-30 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
     },
     "done": true
   },
@@ -2255,8 +2327,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-30 02:22:30 +0000",
       "minecraft:river": "2025-01-30 01:29:49 +0000",
       "minecraft:forest": "2025-01-30 01:18:29 +0000",
+      "minecraft:meadow": "2025-01-30 02:21:40 +0000",
       "minecraft:plains": "2025-01-30 01:36:23 +0000"
     },
     "done": false
@@ -2329,6 +2403,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-30 02:17:58 +0000",
       "bread": "2025-01-30 01:22:32 +0000",
       "suspicious_stew": "2025-01-30 01:28:10 +0000",
       "rabbit_stew": "2025-01-30 01:35:24 +0000"
@@ -2401,6 +2476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-30 01:20:44 +0000"
@@ -2470,6 +2551,12 @@
   "bakery:recipes/stone_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "bonkbat:recipes/combat/oak_bat": {
+    "criteria": {
+      "has_wood": "2025-01-30 02:22:25 +0000"
     },
     "done": true
   },

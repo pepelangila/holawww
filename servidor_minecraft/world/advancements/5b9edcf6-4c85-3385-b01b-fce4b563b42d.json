@@ -261,8 +261,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-30 02:22:29 +0000",
       "minecraft:river": "2025-01-30 01:34:34 +0000",
       "minecraft:forest": "2025-01-30 01:18:20 +0000",
+      "minecraft:meadow": "2025-01-30 02:21:39 +0000",
       "minecraft:plains": "2025-01-30 01:36:36 +0000"
     },
     "done": false
@@ -969,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-30 02:18:53 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_chocolate": {
     "criteria": {
       "has_strawberry": "2025-01-30 01:33:17 +0000"
@@ -1053,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:18:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
     "criteria": {
       "has_log": "2025-01-30 01:57:59 +0000"
@@ -1086,6 +1100,12 @@
       "minecraft:zombie": "2025-01-30 02:03:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 02:15:39 +0000"
+    },
+    "done": true
   },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
@@ -1141,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:18:53 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2025-01-30 01:34:49 +0000"
@@ -1186,6 +1212,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-30 01:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-30 02:22:40 +0000"
     },
     "done": true
   },
@@ -1333,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-30 02:15:39 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/granite_stove": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
@@ -1390,6 +1428,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-30 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-30 02:18:53 +0000"
     },
     "done": true
   },
@@ -1556,6 +1600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 02:22:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-30 02:04:16 +0000"
@@ -1571,6 +1621,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-30 01:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:18:53 +0000"
     },
     "done": true
   },
@@ -1649,6 +1705,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-30 01:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:18:53 +0000"
     },
     "done": true
   },
@@ -1820,6 +1882,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-30 02:24:35 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-01-30 01:33:26 +0000"
@@ -1913,6 +1981,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-30 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-30 02:18:53 +0000"
     },
     "done": true
   },
@@ -2072,6 +2146,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-01-30 02:23:43 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-01-30 01:53:07 +0000"
@@ -2210,6 +2290,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-01-30 02:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-30 01:37:07 +0000"
@@ -2219,6 +2305,12 @@
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-30 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/stick_from_birch_branch": {
+    "criteria": {
+      "has_birch_branch": "2025-01-30 02:24:06 +0000"
     },
     "done": true
   },
@@ -2261,6 +2353,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-30 01:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:18:53 +0000"
     },
     "done": true
   },
@@ -2446,6 +2544,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-01-30 02:22:27 +0000",
+      "pumpkin_pie": "2025-01-30 02:17:29 +0000",
       "bread": "2025-01-30 01:35:17 +0000",
       "golden_carrot": "2025-01-30 01:26:23 +0000",
       "rabbit_stew": "2025-01-30 01:39:49 +0000"
@@ -2479,6 +2579,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-01-30 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-30 02:18:53 +0000"
     },
     "done": true
   },
