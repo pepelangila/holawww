@@ -147,3 +147,21 @@
 [31Jan2025 01:15:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1716.500000, 93.000000, 1640.500000]
 [31Jan2025 01:15:45.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Nightmare Stalker
 [31Jan2025 01:15:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1716.500000, 93.000000, 1640.500000]
+[31Jan2025 01:35:47.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie
+[31Jan2025 01:36:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1303.500000, 89.000000, 1487.500000]
+[31Jan2025 01:37:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie
+[31Jan2025 01:37:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1303.500000, 89.000000, 1487.500000]
+[31Jan2025 01:38:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Krampus Henchman
+[31Jan2025 01:38:48.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[31Jan2025 01:38:48.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[31Jan2025 01:38:51.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> ZZZZZ
+[31Jan2025 01:39:05.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1303.500000, 89.000000, 1487.500000]
+[31Jan2025 01:39:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Krampus Henchman
+[31Jan2025 01:39:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1311.500000, 89.000000, 1490.500000]
+[31Jan2025 01:39:43.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie
+[31Jan2025 01:39:47.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1311.500000, 89.000000, 1490.500000]
+[31Jan2025 01:40:14.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:60854] logged in with entity id 45373 at (985.3000000119209, 63.0, 978.3000000119209)
+[31Jan2025 01:40:14.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[31Jan2025 01:42:02.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov hit the ground too hard
+[31Jan2025 01:42:12.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1311.500000, 89.000000, 1490.500000]
+[31Jan2025 01:42:26.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Dread Hound
