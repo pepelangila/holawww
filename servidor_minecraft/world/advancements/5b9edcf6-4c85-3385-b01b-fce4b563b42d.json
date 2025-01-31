@@ -128,16 +128,22 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "muddy_river": "2025-01-30 01:13:46 +0000",
+      "frozen_tundra": "2025-01-31 01:48:41 +0000",
       "maple_forest": "2025-01-30 01:12:43 +0000",
-      "boreal_forest": "2025-01-30 02:28:42 +0000"
+      "boreal_forest": "2025-01-30 02:28:42 +0000",
+      "cold_boreal_taiga": "2025-01-31 01:47:56 +0000",
+      "icy_heights": "2025-01-31 01:49:19 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "muddy_river": "2025-01-30 01:13:46 +0000",
+      "frozen_tundra": "2025-01-31 01:48:41 +0000",
       "maple_forest": "2025-01-30 01:12:43 +0000",
-      "boreal_forest": "2025-01-30 02:28:42 +0000"
+      "boreal_forest": "2025-01-30 02:28:42 +0000",
+      "cold_boreal_taiga": "2025-01-31 01:47:56 +0000",
+      "icy_heights": "2025-01-31 01:49:19 +0000"
     },
     "done": false
   },
@@ -264,7 +270,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-30 02:22:29 +0000",
+      "minecraft:frozen_river": "2025-01-31 01:47:41 +0000",
       "minecraft:river": "2025-01-30 01:34:34 +0000",
+      "minecraft:snowy_plains": "2025-01-31 01:50:38 +0000",
       "minecraft:forest": "2025-01-30 01:18:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-30 02:26:26 +0000",
       "minecraft:meadow": "2025-01-30 02:21:39 +0000",
@@ -887,6 +895,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-01-30 02:22:27 +0000",
+      "baked_potato": "2025-01-31 01:49:03 +0000",
       "apple": "2025-01-30 23:36:37 +0000",
       "pumpkin_pie": "2025-01-30 02:17:29 +0000",
       "bread": "2025-01-30 01:35:17 +0000",
@@ -2376,7 +2385,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_druid_circle": "2025-01-30 02:00:29 +0000"
+      "entered_druid_circle": "2025-01-30 02:00:29 +0000",
+      "entered_watch_tower": "2025-01-31 01:43:59 +0000"
     },
     "done": false
   },
@@ -3278,6 +3288,18 @@
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2025-01-31 00:39:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-31 01:43:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-31 01:43:27 +0000"
     },
     "done": true
   },

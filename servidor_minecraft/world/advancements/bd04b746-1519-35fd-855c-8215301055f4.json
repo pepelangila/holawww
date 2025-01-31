@@ -2000,7 +2000,8 @@
       "minecraft:spider": "2025-01-30 23:53:04 +0000",
       "minecraft:cave_spider": "2025-01-30 23:48:27 +0000",
       "minecraft:stray": "2025-01-30 23:54:17 +0000",
-      "minecraft:zombie": "2025-01-30 02:02:33 +0000"
+      "minecraft:zombie": "2025-01-30 02:02:33 +0000",
+      "minecraft:drowned": "2025-01-31 01:49:27 +0000"
     },
     "done": false
   },
@@ -2937,6 +2938,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-31 01:49:29 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-31 01:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-01-31 00:48:15 +0000"
@@ -3009,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-31 01:49:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-01-31 00:20:45 +0000"
@@ -3021,9 +3040,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-31 01:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-01-31 01:44:46 +0000"
     },
     "done": true
   },
@@ -3201,6 +3232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-31 01:44:46 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/summon_copper_golem": {
     "criteria": {
       "summoned_golem": "2025-01-31 00:43:08 +0000"
@@ -3255,6 +3292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-31 01:44:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-01-31 00:23:41 +0000"
@@ -3282,6 +3325,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-31 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-31 01:49:29 +0000"
     },
     "done": true
   },
