@@ -829,6 +829,7 @@
       "sweet_berries": "2025-01-30 02:37:09 +0000",
       "apple": "2025-01-30 02:17:58 +0000",
       "bread": "2025-01-30 01:22:32 +0000",
+      "golden_apple": "2025-01-30 23:56:43 +0000",
       "suspicious_stew": "2025-01-30 01:28:10 +0000",
       "rabbit_stew": "2025-01-30 01:35:24 +0000"
     },
@@ -1978,6 +1979,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-30 01:36:29 +0000",
+      "minecraft:spider": "2025-01-30 23:53:04 +0000",
+      "minecraft:cave_spider": "2025-01-30 23:48:27 +0000",
+      "minecraft:stray": "2025-01-30 23:54:17 +0000",
       "minecraft:zombie": "2025-01-30 02:02:33 +0000"
     },
     "done": false
@@ -2834,9 +2838,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-30 23:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
     },
     "done": true
   },
@@ -2846,9 +2862,63 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-30 23:45:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-30 23:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
     },
     "done": true
   },
@@ -2864,9 +2934,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-01-30 23:45:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-30 23:56:26 +0000"
     },
     "done": true
   },
@@ -2879,6 +2961,30 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-30 23:45:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-01-30 23:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-30 23:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-30 23:56:13 +0000"
     },
     "done": true
   },

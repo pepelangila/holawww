@@ -6855,3 +6855,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [30Jan2025 23:50:37.945] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
 [30Jan2025 23:50:50.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
 [30Jan2025 23:50:52.949] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 23:51:50.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 23:51:52.026] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 23:51:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 23:52:06.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[30Jan2025 23:52:06.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[30Jan2025 23:52:35.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> ZZZZZ
+[30Jan2025 23:53:03.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 23:53:04.646] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 23:53:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 23:53:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 23:53:26.423] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 23:53:29.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 23:53:46.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Vex
+[30Jan2025 23:53:47.691] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[30Jan2025 23:54:02.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Vex
+[30Jan2025 23:54:04.321] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 23:54:17.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Jan2025 23:54:48.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> zz+
+[30Jan2025 23:54:59.275] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: bd04b746-1519-35fd-855c-8215301055f4 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=6f792aad-0589-47d1-900d-60d52337d77b, length=26, extra={valid=true}}, startingAt=0, player=null}
+[30Jan2025 23:55:13.715] [Netty Epoll Server IO #0/DEBUG] [emotecraft/]: [emotes server] Received data from: bd04b746-1519-35fd-855c-8215301055f4 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=6f792aad-0589-47d1-900d-60d52337d77b, emoteData=null, startingAt=0, player=null}
+[30Jan2025 23:56:01.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Jan2025 23:56:23.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Not Today, Thank You]
+[30Jan2025 23:56:24.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Jan2025 23:56:57.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Jan2025 23:57:06.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[30Jan2025 23:57:06.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[30Jan2025 23:57:27.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Stray
+[30Jan2025 23:57:29.155] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[30Jan2025 23:57:34.699] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[30Jan2025 23:57:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[30Jan2025 23:57:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Local Brewery]
+[30Jan2025 23:58:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has reached the goal [Senior Summoner]

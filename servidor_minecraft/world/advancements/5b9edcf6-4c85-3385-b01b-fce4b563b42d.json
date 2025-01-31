@@ -902,6 +902,7 @@
       "minecraft:skeleton": "2025-01-30 01:26:28 +0000",
       "minecraft:vindicator": "2025-01-30 01:36:59 +0000",
       "minecraft:spider": "2025-01-30 02:01:00 +0000",
+      "minecraft:cave_spider": "2025-01-30 23:48:39 +0000",
       "minecraft:vex": "2025-01-30 23:45:12 +0000",
       "minecraft:zombie": "2025-01-30 02:03:00 +0000"
     },
@@ -2906,6 +2907,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 23:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-30 23:28:50 +0000"
@@ -2915,6 +2922,30 @@
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-30 23:27:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-30 23:56:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-01-30 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 23:56:04 +0000"
     },
     "done": true
   },
@@ -2933,6 +2964,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-01-30 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-30 23:47:56 +0000"
     },
     "done": true
   },
@@ -3008,6 +3045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-30 23:56:04 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2025-01-30 23:27:15 +0000"
@@ -3020,6 +3063,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-01-30 23:47:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2025-01-30 23:25:41 +0000"
@@ -3029,6 +3078,24 @@
   "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_cattail": "2025-01-30 23:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-30 23:52:46 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-01-30 23:55:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-01-30 23:47:56 +0000"
     },
     "done": true
   },
@@ -3047,6 +3114,18 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-30 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-01-30 23:56:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-01-30 23:49:42 +0000"
     },
     "done": true
   },
