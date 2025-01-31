@@ -127,6 +127,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "cold_deciduous_forest": "2025-01-31 01:15:10 +0000",
       "muddy_river": "2025-01-30 01:11:13 +0000",
       "frozen_tundra": "2025-01-31 00:43:58 +0000",
       "maple_forest": "2025-01-30 01:10:15 +0000",
@@ -140,6 +141,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "cold_deciduous_forest": "2025-01-31 01:15:10 +0000",
       "muddy_river": "2025-01-30 01:11:13 +0000",
       "frozen_tundra": "2025-01-31 00:43:58 +0000",
       "maple_forest": "2025-01-30 01:10:15 +0000",
@@ -411,6 +413,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-31 01:08:18 +0000",
       "minecraft:taiga": "2025-01-30 02:22:30 +0000",
       "minecraft:frozen_river": "2025-01-31 00:42:00 +0000",
       "minecraft:river": "2025-01-30 01:29:49 +0000",
@@ -2867,6 +2870,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-30 23:45:35 +0000"
@@ -3059,11 +3074,23 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
   "vinery:main/crop_collector": {
     "criteria": {
       "vinery:taiga_grape_seeds_white": "2025-01-31 00:41:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
   },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
@@ -3155,6 +3182,18 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-01-31 01:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/summon_copper_golem": {
     "criteria": {
       "summoned_golem": "2025-01-31 00:43:08 +0000"
@@ -3176,6 +3215,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-31 00:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 01:15:03 +0000"
     },
     "done": true
   },
@@ -3215,6 +3260,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-31 00:52:18 +0000"
@@ -3236,6 +3293,18 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-01-31 00:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-31 01:15:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-31 01:15:03 +0000"
     },
     "done": true
   },
