@@ -6971,3 +6971,88 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Jan2025 00:28:36.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
 [31Jan2025 00:28:52.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [31Jan2025 00:31:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[31Jan2025 00:31:52.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has reached the goal [Senior Summoner]
+[31Jan2025 00:31:58.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Bone Imp
+[31Jan2025 00:31:59.893] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[31Jan2025 00:32:06.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 00:32:06.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 00:32:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[31Jan2025 00:32:47.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by MacacoEliTrulov
+[31Jan2025 00:32:49.551] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[31Jan2025 00:32:50.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[31Jan2025 00:34:35.031] [Server thread/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
+[31Jan2025 00:35:15.400] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:35:15.400] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:35:15.400] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:35:15.400] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:35:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[31Jan2025 00:35:24.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Nightmare Stalker
+[31Jan2025 00:35:28.123] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[31Jan2025 00:35:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[31Jan2025 00:35:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[31Jan2025 00:35:51.053] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[31Jan2025 00:35:53.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[31Jan2025 00:36:25.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has reached the goal [Fighting Nightmares]
+[31Jan2025 00:37:06.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 00:37:06.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 00:37:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[31Jan2025 00:41:14.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Wild Grapes]
+[31Jan2025 00:41:32.403] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:41:32.410] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:41:32.411] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:41:32.413] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:42:06.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 00:42:06.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 00:42:12.496] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:42:12.496] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:42:12.496] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:42:12.496] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:42:24.554] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:42:24.555] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:43:08.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has reached the goal [Off you go]
+[31Jan2025 00:43:38.785] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:43:38.786] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:43:38.786] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:43:38.786] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 00:44:01.076] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:01.082] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:03.660] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:03.664] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:03.665] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1458, y=73, z=1620}
+[31Jan2025 00:44:03.665] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1471, y=73, z=1620}
+[31Jan2025 00:44:03.665] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1465, y=73, z=1607}
+[31Jan2025 00:44:05.459] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:05.464] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1469, y=87, z=1632}
+[31Jan2025 00:44:05.464] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:05.466] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1458, y=73, z=1620}
+[31Jan2025 00:44:05.467] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1471, y=73, z=1620}
+[31Jan2025 00:44:05.467] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1471, y=73, z=1621}
+[31Jan2025 00:44:05.493] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:05.496] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:08.359] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:08.364] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:08.367] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=73, z=1614}
+[31Jan2025 00:44:08.657] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:08.660] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:08.661] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=73, z=1614}
+[31Jan2025 00:44:13.191] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:13.195] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:13.361] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:13.364] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1469, y=87, z=1632}
+[31Jan2025 00:44:13.364] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:44:13.375] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1472, y=92, z=1600}
+[31Jan2025 00:44:13.378] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1449, y=80, z=1637}
+[31Jan2025 00:47:06.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 00:47:06.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 00:51:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [What a Dungeon!]
+[31Jan2025 00:52:06.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 00:52:06.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 00:53:28.869] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1201, y=-28, z=1884}
+[31Jan2025 00:53:28.870] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1206, y=-28, z=1878}
+[31Jan2025 00:54:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie
+[31Jan2025 00:54:17.754] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[31Jan2025 00:54:26.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1297.500000, 71.000000, 1651.500000]
+[31Jan2025 00:57:06.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 00:57:06.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 00:57:07.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Double Trouble]
+[31Jan2025 00:59:44.949] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot

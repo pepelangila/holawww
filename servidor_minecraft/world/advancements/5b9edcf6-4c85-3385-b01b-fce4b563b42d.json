@@ -903,6 +903,7 @@
       "minecraft:vindicator": "2025-01-30 01:36:59 +0000",
       "minecraft:spider": "2025-01-30 02:01:00 +0000",
       "minecraft:cave_spider": "2025-01-30 23:48:39 +0000",
+      "minecraft:stray": "2025-01-31 00:28:52 +0000",
       "minecraft:vex": "2025-01-30 23:45:12 +0000",
       "minecraft:zombie": "2025-01-30 02:03:00 +0000"
     },
@@ -2873,6 +2874,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-01-31 00:39:00 +0000",
       "maple_log": "2025-01-30 02:58:53 +0000"
     },
     "done": false
@@ -2973,6 +2975,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-31 00:36:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-01-30 23:40:14 +0000"
@@ -2982,6 +2996,12 @@
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-01-30 23:58:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-01-31 00:39:00 +0000"
     },
     "done": true
   },
@@ -3003,6 +3023,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-30 23:40:14 +0000"
@@ -3012,6 +3038,18 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-30 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-31 00:28:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
     },
     "done": true
   },
@@ -3027,6 +3065,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-01-30 23:25:41 +0000"
@@ -3036,6 +3086,12 @@
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2025-01-31 00:23:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
     },
     "done": true
   },
@@ -3051,9 +3107,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-01-31 00:39:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-01-30 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
     },
     "done": true
   },
@@ -3105,6 +3173,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-31 00:39:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_cattail": "2025-01-30 23:46:47 +0000"
@@ -3129,6 +3203,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-01-31 00:20:53 +0000"
@@ -3138,6 +3218,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-31 00:23:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-01-31 00:39:05 +0000"
     },
     "done": true
   },
@@ -3174,6 +3260,12 @@
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-01-30 23:49:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-01-31 00:30:59 +0000"
     },
     "done": true
   },
