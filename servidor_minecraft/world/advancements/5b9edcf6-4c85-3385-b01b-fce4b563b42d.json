@@ -3033,6 +3033,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-31 00:23:46 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-01-30 23:27:15 +0000"
@@ -3087,6 +3093,12 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-31 00:21:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2025-01-30 23:25:41 +0000"
@@ -3117,6 +3129,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-31 00:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-31 00:23:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-30 23:40:14 +0000"
@@ -3141,6 +3165,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-31 00:18:33 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-01-30 23:49:42 +0000"
@@ -3150,6 +3180,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-30 23:40:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-31 00:18:33 +0000"
     },
     "done": true
   },
