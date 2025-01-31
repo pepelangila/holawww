@@ -8067,3 +8067,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [31Jan2025 02:23:50.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/[::1]:42390] logged in with entity id 75656 at (2144.1809505077645, 90.0, 1869.6574546317254)
 [31Jan2025 02:23:50.590] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@100540c8 into net.minecraft.network.Connection@7a1caf2
 [31Jan2025 02:23:50.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
+[31Jan2025 02:23:51.392] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: bd04b746-1519-35fd-855c-8215301055f4 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[31Jan2025 02:27:10.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 02:27:10.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 02:32:10.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 02:32:10.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 02:34:03.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[31Jan2025 02:35:06.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[31Jan2025 02:35:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[31Jan2025 02:37:10.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 02:37:10.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube
+[31Jan2025 02:37:35.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[31Jan2025 02:37:35.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[31Jan2025 02:42:10.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save youtube
+[31Jan2025 02:42:10.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete youtube

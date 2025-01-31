@@ -909,6 +909,7 @@
       "bread": "2025-01-30 01:35:17 +0000",
       "rotten_flesh": "2025-01-30 23:28:59 +0000",
       "golden_carrot": "2025-01-30 01:26:23 +0000",
+      "cooked_chicken": "2025-01-31 02:25:21 +0000",
       "rabbit_stew": "2025-01-30 01:39:49 +0000"
     },
     "done": false
@@ -919,6 +920,7 @@
       "minecraft:skeleton": "2025-01-30 01:26:28 +0000",
       "minecraft:vindicator": "2025-01-30 01:36:59 +0000",
       "minecraft:spider": "2025-01-30 02:01:00 +0000",
+      "minecraft:zombified_piglin": "2025-01-31 02:33:50 +0000",
       "minecraft:cave_spider": "2025-01-30 23:48:39 +0000",
       "minecraft:stray": "2025-01-31 00:28:52 +0000",
       "minecraft:vex": "2025-01-30 23:45:12 +0000",
@@ -3311,6 +3313,48 @@
     },
     "done": true
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-01-31 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-31 02:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-31 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-31 02:25:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/silver_birch_sapling_from_silver_birch_shrub": {
+    "criteria": {
+      "has_silver_birch_shrub": "2025-01-31 02:31:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_maple_sapling_from_orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_shrub": "2025-01-31 02:32:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-01-31 02:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-31 02:20:13 +0000"
@@ -3323,6 +3367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-31 02:33:57 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-01-31 02:14:52 +0000"
@@ -3332,6 +3382,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-01-31 01:43:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-31 02:25:18 +0000"
     },
     "done": true
   },
