@@ -3011,6 +3011,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-31 00:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-30 23:56:13 +0000"
@@ -3077,6 +3083,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-31 01:01:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-01-30 23:45:37 +0000"
@@ -3119,11 +3131,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-31 01:02:30 +0000"
+    },
+    "done": true
+  },
   "vinery:main/wild_crops": {
     "criteria": {
       "white_taiga_grape_seeds": "2025-01-31 00:41:14 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-01-31 01:07:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
@@ -3170,6 +3194,12 @@
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-01-30 23:49:43 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-01-31 01:07:04 +0000"
     },
     "done": true
   },
