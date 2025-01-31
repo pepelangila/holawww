@@ -419,6 +419,7 @@
       "minecraft:river": "2025-01-30 01:29:49 +0000",
       "minecraft:snowy_plains": "2025-01-31 00:47:23 +0000",
       "minecraft:snowy_taiga": "2025-01-31 00:40:50 +0000",
+      "minecraft:grove": "2025-01-31 01:30:46 +0000",
       "minecraft:forest": "2025-01-30 01:18:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-30 02:26:29 +0000",
       "minecraft:meadow": "2025-01-30 02:21:40 +0000",
@@ -2993,6 +2994,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-31 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-01-31 01:30:14 +0000"
     },
     "done": true
   },
