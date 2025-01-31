@@ -2896,6 +2896,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-31 01:58:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-01-30 23:57:34 +0000"
@@ -2959,6 +2965,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-31 01:58:28 +0000"
     },
     "done": true
   },
@@ -3037,6 +3049,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-30 23:47:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-31 01:58:31 +0000"
     },
     "done": true
   },
@@ -3232,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-31 01:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-31 01:44:46 +0000"
@@ -3379,6 +3403,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-30 23:56:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2025-01-31 01:55:51 +0000"
     },
     "done": true
   },
