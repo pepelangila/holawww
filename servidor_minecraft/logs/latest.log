@@ -221,3 +221,41 @@
 [31Jan2025 02:00:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
 [31Jan2025 02:01:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Ancient Knight
 [31Jan2025 02:01:45.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1477.500000, 135.000000, 499.500000]
+[31Jan2025 02:03:43.834] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 02:03:43.834] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 02:03:43.834] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 02:03:43.834] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Jan2025 02:04:37.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[31Jan2025 02:04:37.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[31Jan2025 02:06:15.528] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59b29f70[id=<null>,name=MacacoEliTrulov,properties={},legacy=false] (/[::1]:45838) lost connection: Timed out
+[31Jan2025 02:06:33.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/[::1]:39508] logged in with entity id 64084 at (1618.7285592516862, 117.0, 350.34658528608173)
+[31Jan2025 02:06:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
+[31Jan2025 02:07:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> xzzzz
+[31Jan2025 02:07:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> z
+[31Jan2025 02:07:30.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> z
+[31Jan2025 02:07:30.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> z
+[31Jan2025 02:07:31.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> z
+[31Jan2025 02:07:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> z
+[31Jan2025 02:07:31.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> zz
+[31Jan2025 02:07:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> z
+[31Jan2025 02:08:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov fell from a high place
+[31Jan2025 02:08:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1688.500000, -24.000000, 246.500000]
+[31Jan2025 02:08:36.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:08:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:08:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:09:01.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:09:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:09:16.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[31Jan2025 02:09:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:09:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was eviscerated by Archevoker's vexes
+[31Jan2025 02:10:23.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[31Jan2025 02:10:28.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:10:34.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:10:44.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[31Jan2025 02:10:51.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:11:00.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was eviscerated by Archevoker's vexes
+[31Jan2025 02:11:07.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 1706.000000, 63.000000, 223.000000]
+[31Jan2025 02:11:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was eviscerated by Archevoker's vexes
+[31Jan2025 02:11:17.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz went off with a bang thanks to Archevoker
+[31Jan2025 02:11:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was caught by Archevoker's fangs
+[31Jan2025 02:12:33.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
