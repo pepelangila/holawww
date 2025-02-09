@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-02-09 04:32:01 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-02-09 04:16:33 +0000"
@@ -38,6 +44,12 @@
   "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-09 04:32:00 +0000"
     },
     "done": true
   },
@@ -77,6 +89,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/quartz_stove": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -89,9 +113,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-09 04:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-09 04:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-09 04:30:18 +0000"
     },
     "done": true
   },
@@ -149,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_shrub": {
     "criteria": {
       "has_magnolia_sapling": "2025-02-09 04:25:23 +0000"
@@ -192,6 +234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dirt_slab": {
     "criteria": {
       "has_dirt": "2025-02-09 04:17:49 +0000"
@@ -219,6 +267,12 @@
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-02-09 04:24:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-02-09 04:27:49 +0000"
     },
     "done": true
   },
@@ -300,6 +354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-09 04:31:33 +0000"
+    },
+    "done": true
+  },
   "portablemobs:recipes/misc/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-02-09 04:25:48 +0000"
@@ -333,6 +393,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-02-09 04:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
     },
     "done": true
   },
@@ -439,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-09 04:23:14 +0000"
@@ -499,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-09 04:31:33 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-02-09 04:16:33 +0000"
@@ -523,6 +601,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 04:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 04:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-09 04:27:00 +0000"
@@ -538,6 +634,12 @@
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
     },
     "done": true
   },
@@ -565,6 +667,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-02-09 04:32:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-02-09 04:23:14 +0000"
@@ -574,6 +682,12 @@
   "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
       "has_log": "2025-02-09 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
     },
     "done": true
   },
@@ -610,6 +724,12 @@
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
     },
     "done": true
   },
@@ -685,6 +805,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/kitchen_sink": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -739,9 +877,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 04:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-09 04:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-09 04:29:28 +0000"
     },
     "done": true
   },
@@ -775,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-09 04:33:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_door": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 04:17:02 +0000"
@@ -802,6 +964,18 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-09 04:31:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 04:31:33 +0000"
     },
     "done": true
   },
@@ -877,6 +1051,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 04:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-09 04:30:35 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-02-09 04:16:33 +0000"
@@ -886,6 +1072,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-02-09 04:17:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-02-09 04:32:47 +0000"
     },
     "done": true
   },
@@ -916,6 +1108,18 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-09 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-09 04:28:24 +0000"
     },
     "done": true
   },
@@ -955,6 +1159,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-09 04:33:22 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -985,12 +1195,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-09 04:32:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "rocky_meadow": "2025-02-09 04:16:34 +0000",
       "magnolia_highlands": "2025-02-09 04:17:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-09 04:32:01 +0000"
+    },
+    "done": true
   },
   "bakery:recipes/brick_stove": {
     "criteria": {
@@ -1022,6 +1244,18 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-09 04:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-09 04:28:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-02-09 04:18:29 +0000"
@@ -1031,6 +1265,12 @@
   "regions_unexplored:recipes/decorations/magnolia_sign": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 04:17:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-09 04:31:13 +0000"
     },
     "done": true
   },
@@ -1070,9 +1310,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-09 04:32:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 04:32:00 +0000"
     },
     "done": true
   },
@@ -1137,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-02-09 04:25:48 +0000"
@@ -1155,6 +1413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-09 04:27:53 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-02-09 04:16:33 +0000"
@@ -1170,6 +1434,12 @@
   "witherstormmod:recipes/tools/amulet": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-09 04:32:47 +0000"
     },
     "done": true
   },
