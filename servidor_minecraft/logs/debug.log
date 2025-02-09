@@ -8443,3 +8443,165 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [09Feb2025 04:40:42.077] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27324, l='ServerLevel[eeeeee]', x=261.50, y=159.00, z=103.50]
 [09Feb2025 04:40:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by xiomy_zzz
 [09Feb2025 04:40:45.369] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:41:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to MacacoEliTrulov]
+[09Feb2025 04:41:06.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:41:14.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/27580, l='ServerLevel[eeeeee]', x=267.50, y=159.00, z=100.50]
+[09Feb2025 04:41:15.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27581, l='ServerLevel[eeeeee]', x=268.50, y=159.00, z=101.50]
+[09Feb2025 04:41:15.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27582, l='ServerLevel[eeeeee]', x=265.50, y=159.00, z=103.50]
+[09Feb2025 04:41:15.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27583, l='ServerLevel[eeeeee]', x=265.50, y=159.00, z=99.50]
+[09Feb2025 04:41:18.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/27602, l='ServerLevel[eeeeee]', x=263.50, y=159.00, z=102.50]
+[09Feb2025 04:41:19.335] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27605, l='ServerLevel[eeeeee]', x=265.50, y=159.00, z=102.50]
+[09Feb2025 04:41:19.335] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27606, l='ServerLevel[eeeeee]', x=262.50, y=159.00, z=104.50]
+[09Feb2025 04:41:19.335] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27607, l='ServerLevel[eeeeee]', x=262.50, y=159.00, z=100.50]
+[09Feb2025 04:41:22.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to MacacoEliTrulov]
+[09Feb2025 04:41:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[09Feb2025 04:42:22.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/27819, l='ServerLevel[eeeeee]', x=265.50, y=152.00, z=105.50]
+[09Feb2025 04:42:23.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27821, l='ServerLevel[eeeeee]', x=268.50, y=152.00, z=105.50]
+[09Feb2025 04:42:23.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27822, l='ServerLevel[eeeeee]', x=265.50, y=152.00, z=107.50]
+[09Feb2025 04:42:23.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27823, l='ServerLevel[eeeeee]', x=265.50, y=152.00, z=103.50]
+[09Feb2025 04:42:35.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/27873, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=104.50]
+[09Feb2025 04:42:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by Silverfish
+[09Feb2025 04:42:36.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27896, l='ServerLevel[eeeeee]', x=266.50, y=147.00, z=104.50]
+[09Feb2025 04:42:36.182] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27897, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=106.50]
+[09Feb2025 04:42:36.182] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27898, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=102.50]
+[09Feb2025 04:42:37.579] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:42:43.435] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/27931, l='ServerLevel[eeeeee]', x=260.50, y=147.00, z=104.50]
+[09Feb2025 04:42:43.944] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27934, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=103.50]
+[09Feb2025 04:42:43.944] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27935, l='ServerLevel[eeeeee]', x=260.50, y=147.00, z=105.50]
+[09Feb2025 04:42:43.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27936, l='ServerLevel[eeeeee]', x=260.50, y=147.00, z=101.50]
+[09Feb2025 04:42:46.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by Infested
+[09Feb2025 04:42:48.376] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:42:57.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/27985, l='ServerLevel[eeeeee]', x=256.50, y=147.00, z=103.50]
+[09Feb2025 04:42:58.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27992, l='ServerLevel[eeeeee]', x=258.50, y=146.00, z=102.50]
+[09Feb2025 04:42:58.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27993, l='ServerLevel[eeeeee]', x=255.50, y=146.00, z=104.50]
+[09Feb2025 04:42:58.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/27994, l='ServerLevel[eeeeee]', x=255.50, y=146.00, z=100.50]
+[09Feb2025 04:43:03.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by Infested
+[09Feb2025 04:43:04.884] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:43:05.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 04:43:05.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 04:43:07.584] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/28026, l='ServerLevel[eeeeee]', x=264.50, y=146.00, z=105.50]
+[09Feb2025 04:43:08.089] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28033, l='ServerLevel[eeeeee]', x=266.50, y=147.00, z=104.50]
+[09Feb2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28034, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=106.50]
+[09Feb2025 04:43:08.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28035, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=102.50]
+[09Feb2025 04:43:12.589] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/28056, l='ServerLevel[eeeeee]', x=263.50, y=147.00, z=109.50]
+[09Feb2025 04:43:13.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28057, l='ServerLevel[eeeeee]', x=265.50, y=147.00, z=110.50]
+[09Feb2025 04:43:13.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28058, l='ServerLevel[eeeeee]', x=262.50, y=147.00, z=112.50]
+[09Feb2025 04:43:13.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28059, l='ServerLevel[eeeeee]', x=262.50, y=147.00, z=108.50]
+[09Feb2025 04:43:18.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/28090, l='ServerLevel[eeeeee]', x=256.50, y=149.00, z=103.50]
+[09Feb2025 04:43:19.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28093, l='ServerLevel[eeeeee]', x=258.50, y=149.00, z=102.50]
+[09Feb2025 04:43:19.486] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28094, l='ServerLevel[eeeeee]', x=255.50, y=149.00, z=104.50]
+[09Feb2025 04:43:19.486] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28095, l='ServerLevel[eeeeee]', x=255.50, y=149.00, z=100.50]
+[09Feb2025 04:43:38.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to MacacoEliTrulov]
+[09Feb2025 04:43:58.988] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/28255, l='ServerLevel[eeeeee]', x=267.50, y=148.00, z=106.50]
+[09Feb2025 04:43:59.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28257, l='ServerLevel[eeeeee]', x=269.50, y=148.00, z=106.50]
+[09Feb2025 04:43:59.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28258, l='ServerLevel[eeeeee]', x=266.50, y=148.00, z=108.50]
+[09Feb2025 04:43:59.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/28259, l='ServerLevel[eeeeee]', x=266.50, y=148.00, z=104.50]
+[09Feb2025 04:44:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by Wither Skeleton
+[09Feb2025 04:44:48.047] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:44:48.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Wither Skeleton
+[09Feb2025 04:44:50.278] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:44:59.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was shot by Stray
+[09Feb2025 04:45:00.574] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:45:05.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Feb2025 04:45:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by Wither Skeleton
+[09Feb2025 04:45:10.407] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:45:32.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Getting an Upgrade]
+[09Feb2025 04:45:34.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Feb2025 04:47:14.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has completed the challenge [Death-Defying]
+[09Feb2025 04:47:39.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:48:05.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 04:48:05.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 04:48:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:48:26.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has completed the challenge [Death-Defying]
+[09Feb2025 04:48:35.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to MacacoEliTrulov]
+[09Feb2025 04:48:38.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 has completed the challenge [Death-Defying]
+[09Feb2025 04:49:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was slain by Corpse Fly
+[09Feb2025 04:49:32.952] [Server thread/DEBUG] [twilightforest/]: Player Isak0_0 (052bfe47-d4f6-3058-95df-3580addef4a9) respawned and received items held in storage
+[09Feb2025 04:49:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was doomed to fall by Isak0_0
+[09Feb2025 04:49:38.747] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 04:49:42.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 275.500000, 141.000000, 110.500000]
+[09Feb2025 04:49:48.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to xiomy_zzz]
+[09Feb2025 04:50:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:50:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[09Feb2025 04:50:36.942] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:51:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to Isak0_0]
+[09Feb2025 04:52:33.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:52:58.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:53:02.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/29945, l='ServerLevel[eeeeee]', x=350.50, y=102.00, z=62.50]
+[09Feb2025 04:53:02.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/29950, l='ServerLevel[eeeeee]', x=352.50, y=102.00, z=62.50]
+[09Feb2025 04:53:02.686] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/29951, l='ServerLevel[eeeeee]', x=349.50, y=102.00, z=64.50]
+[09Feb2025 04:53:02.686] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/29952, l='ServerLevel[eeeeee]', x=349.50, y=102.00, z=60.50]
+[09Feb2025 04:53:05.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 04:53:05.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 04:53:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Dark Metallurgy]
+[09Feb2025 04:53:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:53:43.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Best Friends Forever]
+[09Feb2025 04:54:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:54:42.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[09Feb2025 04:54:45.986] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[09Feb2025 04:54:45.987] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[09Feb2025 04:54:45.988] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[09Feb2025 04:54:47.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz moved too quickly! -5.775217271011115,-1.6616138375639196,8.21876767288687
+[09Feb2025 04:55:01.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
+[09Feb2025 04:55:18.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:55:18.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:55:18.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:55:18.731] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:55:21.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[09Feb2025 04:55:42.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[09Feb2025 04:56:05.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8475ms or 169 ticks behind
+[09Feb2025 04:56:13.665] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=640, y=3, z=10} but found not block entity block Block{minecraft:water}[level=1] at location
+[09Feb2025 04:56:13.665] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=640, y=3, z=10}
+[09Feb2025 04:56:24.310] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=86, z=528}
+[09Feb2025 04:56:24.314] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=331, y=74, z=505}
+[09Feb2025 04:56:24.614] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=86, z=528}
+[09Feb2025 04:56:24.617] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=331, y=74, z=505}
+[09Feb2025 04:56:24.750] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=86, z=528}
+[09Feb2025 04:56:24.752] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=331, y=74, z=505}
+[09Feb2025 04:56:24.764] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=86, z=528}
+[09Feb2025 04:56:29.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/32025, l='ServerLevel[eeeeee]', x=488.50, y=97.00, z=50.50]
+[09Feb2025 04:56:30.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32032, l='ServerLevel[eeeeee]', x=491.50, y=97.00, z=50.50]
+[09Feb2025 04:56:30.507] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32033, l='ServerLevel[eeeeee]', x=488.50, y=97.00, z=52.50]
+[09Feb2025 04:56:30.507] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32034, l='ServerLevel[eeeeee]', x=488.50, y=97.00, z=48.50]
+[09Feb2025 04:56:33.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13043ms or 260 ticks behind
+[09Feb2025 04:56:38.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/32085, l='ServerLevel[eeeeee]', x=488.50, y=97.00, z=50.50]
+[09Feb2025 04:56:39.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32095, l='ServerLevel[eeeeee]', x=490.50, y=97.00, z=50.50]
+[09Feb2025 04:56:39.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32096, l='ServerLevel[eeeeee]', x=487.50, y=97.00, z=52.50]
+[09Feb2025 04:56:39.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32097, l='ServerLevel[eeeeee]', x=487.50, y=97.00, z=48.50]
+[09Feb2025 04:57:01.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:57:02.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13407ms or 268 ticks behind
+[09Feb2025 04:57:03.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Gunnarr'/29816, l='ServerLevel[eeeeee]', x=488.30, y=93.00, z=50.50] died: Gunnarr was slain by xiomy_zzz
+[09Feb2025 04:57:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Scarlet Temptation]
+[09Feb2025 04:57:19.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[09Feb2025 04:57:27.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Wally'/29811, l='ServerLevel[eeeeee]', x=490.26, y=93.00, z=45.08] died: Wally was slain by xiomy_zzz
+[09Feb2025 04:57:28.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['bally'/29813, l='ServerLevel[eeeeee]', x=489.95, y=93.00, z=46.03] died: bally was slain by xiomy_zzz
+[09Feb2025 04:57:36.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[09Feb2025 04:57:40.656] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['Sally'/29812, l='ServerLevel[eeeeee]', x=490.45, y=93.00, z=47.41] died: Sally was slain by Wolf
+[09Feb2025 04:57:53.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[09Feb2025 04:58:11.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[09Feb2025 04:58:29.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[09Feb2025 04:58:47.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[09Feb2025 04:58:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:59:04.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[09Feb2025 04:59:14.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Shouldn't We Cook It First?]
+[09Feb2025 04:59:15.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 04:59:15.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 04:59:15.780] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/32742, l='ServerLevel[eeeeee]', x=489.50, y=98.00, z=36.50]
+[09Feb2025 04:59:16.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32743, l='ServerLevel[eeeeee]', x=492.50, y=98.00, z=39.50]
+[09Feb2025 04:59:16.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32744, l='ServerLevel[eeeeee]', x=489.50, y=98.00, z=41.50]
+[09Feb2025 04:59:16.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/32745, l='ServerLevel[eeeeee]', x=489.50, y=98.00, z=37.50]
+[09Feb2025 04:59:22.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
+[09Feb2025 04:59:27.208] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Feb2025 04:59:27.208] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[09Feb2025 04:59:36.181] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:59:36.182] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:59:36.182] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:59:36.182] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Feb2025 04:59:43.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5962ms or 119 ticks behind
+[09Feb2025 04:59:45.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has reached the goal [Who built this?]
+[09Feb2025 05:00:05.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6764ms or 135 ticks behind
+[09Feb2025 05:00:11.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Feb2025 05:00:28.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
+[09Feb2025 05:00:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has reached the goal [Who built this?]
+[09Feb2025 05:00:50.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6903ms or 138 ticks behind
+[09Feb2025 05:01:14.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9187ms or 183 ticks behind
