@@ -89,6 +89,18 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_stone_mineshaft": "2025-02-09 05:08:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-09 04:25:36 +0000"
@@ -155,9 +167,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-09 05:12:38 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/quartz_stove": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 05:11:57 +0000"
     },
     "done": true
   },
@@ -308,10 +332,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-09 04:24:43 +0000",
+      "minecraft:spider": "2025-02-09 05:14:21 +0000",
       "minecraft:creeper": "2025-02-09 04:26:58 +0000",
       "minecraft:silverfish": "2025-02-09 04:42:27 +0000",
       "minecraft:stray": "2025-02-09 04:45:05 +0000",
-      "minecraft:zombie": "2025-02-09 05:03:55 +0000"
+      "minecraft:zombie": "2025-02-09 05:03:55 +0000",
+      "minecraft:zombie_villager": "2025-02-09 05:12:38 +0000"
     },
     "done": false
   },
@@ -405,6 +431,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-02-09 05:10:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-02-09 04:27:00 +0000"
@@ -465,9 +497,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 05:15:31 +0000"
     },
     "done": true
   },
@@ -519,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-09 05:12:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-02-09 04:20:09 +0000"
@@ -555,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -579,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-09 05:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -594,6 +656,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-09 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_stone_mineshaft": "2025-02-09 05:08:02 +0000"
     },
     "done": true
   },
@@ -651,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-09 05:11:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/campfire": {
     "criteria": {
       "has_stick": "2025-02-09 04:25:48 +0000",
@@ -703,6 +777,12 @@
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-09 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-09 05:10:16 +0000"
     },
     "done": true
   },
@@ -910,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -1012,6 +1098,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-09 05:13:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:41:45 +0000"
@@ -1039,6 +1131,12 @@
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:12:31 +0000"
     },
     "done": true
   },
@@ -1198,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 04:17:02 +0000"
@@ -1207,6 +1311,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-09 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-02-09 05:13:40 +0000"
     },
     "done": true
   },
@@ -1234,9 +1344,21 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:12:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-09 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:12:31 +0000"
     },
     "done": true
   },
@@ -1324,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-09 05:11:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_door": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 04:17:02 +0000"
@@ -1378,6 +1506,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-02-09 05:15:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:41:45 +0000"
@@ -1417,6 +1551,12 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2025-02-09 05:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
     },
     "done": true
   },
@@ -1528,6 +1668,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:41:45 +0000"
@@ -1579,6 +1725,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-09 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:10:41 +0000"
     },
     "done": true
   },
@@ -1744,6 +1896,12 @@
     },
     "done": true
   },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:12:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:41:45 +0000"
@@ -1781,6 +1939,12 @@
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
     },
     "done": true
   },
@@ -1831,6 +1995,12 @@
       "has_bone": "2025-02-09 04:18:29 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-09 05:10:41 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:recipes/decorations/magnolia_sign": {
     "criteria": {
@@ -1968,6 +2138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-02-09 04:17:02 +0000"
@@ -1986,13 +2162,20 @@
       "minecraft:stony_peaks": "2025-02-09 04:16:55 +0000",
       "minecraft:river": "2025-02-09 05:02:08 +0000",
       "minecraft:forest": "2025-02-09 04:40:18 +0000",
-      "minecraft:meadow": "2025-02-09 05:01:23 +0000"
+      "minecraft:meadow": "2025-02-09 05:01:23 +0000",
+      "minecraft:plains": "2025-02-09 05:10:02 +0000"
     },
     "done": false
   },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-02-09 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:12:31 +0000"
     },
     "done": true
   },
@@ -2014,6 +2197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-02-09 04:25:48 +0000"
@@ -2022,7 +2211,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2025-02-09 04:20:17 +0000"
+      "bread": "2025-02-09 05:14:05 +0000",
+      "rotten_flesh": "2025-02-09 04:20:17 +0000",
+      "golden_carrot": "2025-02-09 05:14:01 +0000"
     },
     "done": false
   },
@@ -2080,6 +2271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-09 05:10:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-09 04:32:47 +0000"
@@ -2089,6 +2286,12 @@
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-02-09 04:17:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-09 05:14:28 +0000"
     },
     "done": true
   },
