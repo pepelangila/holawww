@@ -182,14 +182,16 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "rocky_meadow": "2025-02-09 03:33:21 +0000",
-      "magnolia_highlands": "2025-02-09 03:38:02 +0000"
+      "magnolia_highlands": "2025-02-09 03:38:02 +0000",
+      "deciduous_forest": "2025-02-09 04:17:27 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "rocky_meadow": "2025-02-09 03:33:21 +0000",
-      "magnolia_highlands": "2025-02-09 03:38:02 +0000"
+      "magnolia_highlands": "2025-02-09 03:38:02 +0000",
+      "deciduous_forest": "2025-02-09 04:17:27 +0000"
     },
     "done": false
   },
@@ -698,6 +700,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-09 04:22:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-09 03:51:48 +0000"
@@ -743,6 +751,18 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-09 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-09 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-09 04:24:21 +0000"
     },
     "done": true
   },
@@ -828,6 +848,12 @@
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-02-09 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-02-09 04:26:50 +0000"
     },
     "done": true
   },
@@ -1002,6 +1028,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-09 03:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-09 04:26:50 +0000"
     },
     "done": true
   },
@@ -1281,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-09 04:18:16 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-02-09 04:08:12 +0000"
@@ -1296,6 +1334,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-02-09 04:18:16 +0000"
     },
     "done": true
   },
@@ -1401,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-09 04:19:23 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2025-02-09 03:53:56 +0000"
@@ -1437,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-09 04:26:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
@@ -1464,6 +1520,12 @@
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-09 04:19:21 +0000"
     },
     "done": true
   },
@@ -1527,6 +1589,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-09 04:17:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2025-02-09 03:51:48 +0000"
@@ -1583,7 +1651,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:stony_peaks": "2025-02-09 03:57:50 +0000"
+      "minecraft:savanna_plateau": "2025-02-09 04:17:36 +0000",
+      "minecraft:stony_peaks": "2025-02-09 03:57:50 +0000",
+      "minecraft:forest": "2025-02-09 04:17:41 +0000"
     },
     "done": false
   },
@@ -1596,6 +1666,12 @@
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2025-02-09 03:54:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-09 04:22:54 +0000"
     },
     "done": true
   },
@@ -1616,6 +1692,13 @@
       "has_stick": "2025-02-09 03:54:05 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-02-09 04:19:23 +0000",
+      "cooked_chicken": "2025-02-09 04:22:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
