@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-09 05:02:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 04:17:02 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-02-09 05:02:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
       "has_logs": "2025-02-09 04:23:14 +0000"
@@ -298,7 +310,8 @@
       "minecraft:skeleton": "2025-02-09 04:24:43 +0000",
       "minecraft:creeper": "2025-02-09 04:26:58 +0000",
       "minecraft:silverfish": "2025-02-09 04:42:27 +0000",
-      "minecraft:stray": "2025-02-09 04:45:05 +0000"
+      "minecraft:stray": "2025-02-09 04:45:05 +0000",
+      "minecraft:zombie": "2025-02-09 05:03:55 +0000"
     },
     "done": false
   },
@@ -602,6 +615,12 @@
     },
     "done": true
   },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-02-09 05:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 04:20:09 +0000"
@@ -744,6 +763,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-09 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-09 05:02:06 +0000"
     },
     "done": true
   },
@@ -1239,6 +1264,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-09 05:02:06 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-02-09 04:29:28 +0000"
@@ -1380,6 +1411,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-09 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-02-09 05:02:06 +0000"
     },
     "done": true
   },
@@ -1727,8 +1764,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-02-09 05:01:40 +0000",
       "rocky_meadow": "2025-02-09 04:16:34 +0000",
-      "magnolia_highlands": "2025-02-09 04:17:41 +0000"
+      "highland_fields": "2025-02-09 05:01:26 +0000",
+      "magnolia_highlands": "2025-02-09 04:17:41 +0000",
+      "deciduous_forest": "2025-02-09 05:01:16 +0000"
     },
     "done": false
   },
@@ -1896,8 +1936,11 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-02-09 05:01:40 +0000",
       "rocky_meadow": "2025-02-09 04:16:34 +0000",
-      "magnolia_highlands": "2025-02-09 04:17:41 +0000"
+      "highland_fields": "2025-02-09 05:01:26 +0000",
+      "magnolia_highlands": "2025-02-09 04:17:41 +0000",
+      "deciduous_forest": "2025-02-09 05:01:16 +0000"
     },
     "done": false
   },
@@ -1941,7 +1984,9 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-02-09 04:38:48 +0000",
       "minecraft:stony_peaks": "2025-02-09 04:16:55 +0000",
-      "minecraft:forest": "2025-02-09 04:40:18 +0000"
+      "minecraft:river": "2025-02-09 05:02:08 +0000",
+      "minecraft:forest": "2025-02-09 04:40:18 +0000",
+      "minecraft:meadow": "2025-02-09 05:01:23 +0000"
     },
     "done": false
   },

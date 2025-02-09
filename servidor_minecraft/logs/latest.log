@@ -1872,3 +1872,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [09Feb2025 05:00:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has reached the goal [Who built this?]
 [09Feb2025 05:00:50.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6903ms or 138 ticks behind
 [09Feb2025 05:01:14.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9187ms or 183 ticks behind
+[09Feb2025 05:01:29.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 05:01:42.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12948ms or 258 ticks behind
+[09Feb2025 05:01:57.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Wolf
+[09Feb2025 05:02:02.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 05:02:07.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10109ms or 202 ticks behind
+[09Feb2025 05:02:31.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9155ms or 183 ticks behind
+[09Feb2025 05:02:50.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to Isak0_0]
+[09Feb2025 05:02:53.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 05:02:54.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8186ms or 163 ticks behind
+[09Feb2025 05:03:16.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7268ms or 145 ticks behind
+[09Feb2025 05:03:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[09Feb2025 05:03:40.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[09Feb2025 05:03:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[09Feb2025 05:04:01.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6199ms or 123 ticks behind
+[09Feb2025 05:04:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[09Feb2025 05:04:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[09Feb2025 05:04:14.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[09Feb2025 05:04:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[09Feb2025 05:04:23.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
+[09Feb2025 05:04:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Shouldn't We Cook It First?]
+[09Feb2025 05:04:43.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[09Feb2025 05:04:43.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4879ms or 97 ticks behind
+[09Feb2025 05:04:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[09Feb2025 05:05:05.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6838ms or 136 ticks behind
+[09Feb2025 05:05:26.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5979ms or 119 ticks behind
+[09Feb2025 05:05:46.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[09Feb2025 05:06:06.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4893ms or 97 ticks behind
+[09Feb2025 05:06:26.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5668ms or 113 ticks behind
+[09Feb2025 05:06:48.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6449ms or 128 ticks behind
+[09Feb2025 05:07:07.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
+[09Feb2025 05:07:25.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3474ms or 69 ticks behind
+[09Feb2025 05:07:44.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
+[09Feb2025 05:08:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to MacacoEliTrulov]
+[09Feb2025 05:08:02.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 has reached the goal [Who built this?]
+[09Feb2025 05:08:02.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[09Feb2025 05:08:38.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 was shot by xiomy_zzz using [Gunnarr’s Valor]
+[09Feb2025 05:08:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported Isak0_0 to MacacoEliTrulov]
+[09Feb2025 05:10:33.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to Isak0_0]
+[09Feb2025 05:10:40.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isak0_0 has made the advancement [Dark Metallurgy]
+[09Feb2025 05:10:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Not Today, Thank You]
