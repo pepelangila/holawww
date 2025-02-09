@@ -7797,3 +7797,129 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [09Feb2025 03:50:11.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
 [09Feb2025 03:50:16.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was doomed to fall by Skeleton
 [09Feb2025 03:50:18.096] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 03:51:09.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set the weather to clear]
+[09Feb2025 03:51:16.802] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[09Feb2025 03:51:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Suit Up]
+[09Feb2025 03:51:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Acquire Hardware]
+[09Feb2025 03:51:32.832] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[09Feb2025 03:51:32.839] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[09Feb2025 03:51:58.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 03:51:59.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 03:52:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was doomed to fall by MacacoEliTrulov
+[09Feb2025 03:52:42.525] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 03:53:45.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 03:53:50.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Suit Up]
+[09Feb2025 03:53:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Dungeon Now Loading]
+[09Feb2025 03:54:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Isn't It Iron Pick]
+[09Feb2025 03:54:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Tools of the Trade]
+[09Feb2025 03:55:10.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 03:56:48.078] [Worker-Main-3/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[09Feb2025 03:56:48.162] [Worker-Main-3/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[09Feb2025 03:56:59.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 03:56:59.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 03:57:14.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was shot by Skeleton
+[09Feb2025 03:57:15.631] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 03:57:19.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 150.500000, 98.000000, -196.500000]
+[09Feb2025 03:58:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 03:58:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov fell from a high place
+[09Feb2025 03:58:54.073] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 03:59:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 03:59:02.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Monster Hunter]
+[09Feb2025 03:59:35.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie
+[09Feb2025 03:59:37.044] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 03:59:38.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:00:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Made From Clouds...]
+[09Feb2025 04:00:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie
+[09Feb2025 04:00:18.971] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 04:00:20.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:00:20.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Made From Clouds...]
+[09Feb2025 04:00:46.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was killed by magic
+[09Feb2025 04:00:47.939] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:00:59.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was killed by magic
+[09Feb2025 04:01:00.415] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:01:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was killed by magic
+[09Feb2025 04:01:09.062] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:01:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was killed by magic
+[09Feb2025 04:01:21.422] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:01:27.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:01:28.916] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:01:42.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Dread Hound
+[09Feb2025 04:01:43.819] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:01:58.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 04:01:58.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 04:02:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Dread Hound
+[09Feb2025 04:02:05.368] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:02:11.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:02:13.189] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:02:36.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Dread Hound
+[09Feb2025 04:02:37.681] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:02:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was doomed to fall
+[09Feb2025 04:02:43.533] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:03:39.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[09Feb2025 04:03:40.511] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:00.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
+[09Feb2025 04:04:01.940] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:07.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was struck by lightning whilst fighting Cloud Golem
+[09Feb2025 04:04:09.010] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:13.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[09Feb2025 04:04:15.126] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Not Today, Thank You]
+[09Feb2025 04:04:23.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
+[09Feb2025 04:04:25.084] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:36.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[09Feb2025 04:04:37.762] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:48.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[09Feb2025 04:04:49.510] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:04:54.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was doomed to fall by Cloud Golem
+[09Feb2025 04:04:55.775] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:05:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:05:40.927] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:05:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:05:48.074] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:05:53.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:05:55.203] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:06:03.085] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:09.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:06:10.648] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:15.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was struck by lightning whilst fighting Cloud Golem
+[09Feb2025 04:06:16.929] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:22.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was struck by lightning whilst fighting Cloud Golem
+[09Feb2025 04:06:23.491] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:06:30.712] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:40.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:06:41.364] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:49.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was doomed to fall
+[09Feb2025 04:06:51.271] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:06:58.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[09Feb2025 04:06:58.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[09Feb2025 04:07:10.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:07:12.180] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:07:17.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:07:18.421] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:07:23.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:07:24.787] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:07:31.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:07:32.918] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:07:37.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Cloud Golem
+[09Feb2025 04:07:39.224] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:08:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Tools of the Trade]
+[09Feb2025 04:08:21.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Acquire Hardware]
+[09Feb2025 04:09:18.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Isn't It Iron Pick]
+[09Feb2025 04:10:01.456] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/13488, l='ServerLevel[eeeeee]', x=97.50, y=160.00, z=129.50]
+[09Feb2025 04:10:01.457] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[09Feb2025 04:10:01.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/13491, l='ServerLevel[eeeeee]', x=99.50, y=160.00, z=128.50]
+[09Feb2025 04:10:01.932] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/13492, l='ServerLevel[eeeeee]', x=96.50, y=160.00, z=130.50]
+[09Feb2025 04:10:01.932] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/13493, l='ServerLevel[eeeeee]', x=96.50, y=160.00, z=126.50]
+[09Feb2025 04:10:02.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by xiomy_zzz
+[09Feb2025 04:10:02.186] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[09Feb2025 04:10:03.898] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[09Feb2025 04:10:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[09Feb2025 04:10:12.435] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_CloudEntity['entity.legendary_monsters.falling_cloud'/13799, l='ServerLevel[eeeeee]', x=97.50, y=160.00, z=131.50]
+[09Feb2025 04:10:12.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/13801, l='ServerLevel[eeeeee]', x=100.50, y=162.00, z=129.50]
+[09Feb2025 04:10:12.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/13802, l='ServerLevel[eeeeee]', x=97.50, y=162.00, z=131.50]
+[09Feb2025 04:10:12.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Falling_Cloud_SmallEntity['entity.legendary_monsters.falling_cloud_small'/13803, l='ServerLevel[eeeeee]', x=97.50, y=162.00, z=127.50]
+[09Feb2025 04:10:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by MacacoEliTrulov
+[09Feb2025 04:10:20.179] [Server thread/DEBUG] [twilightforest/]: Player xiomy_zzz (5b9edcf6-4c85-3385-b01b-fce4b563b42d) respawned and received items held in storage
+[09Feb2025 04:10:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]

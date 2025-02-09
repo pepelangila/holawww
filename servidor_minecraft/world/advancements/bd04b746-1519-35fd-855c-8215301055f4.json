@@ -182,14 +182,18 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "rocky_meadow": "2025-02-07 18:03:19 +0000",
-      "magnolia_highlands": "2025-02-09 03:38:00 +0000"
+      "magnolia_highlands": "2025-02-09 03:38:00 +0000",
+      "deciduous_forest": "2025-02-09 03:56:40 +0000",
+      "prairie": "2025-02-09 03:56:43 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "rocky_meadow": "2025-02-07 18:03:19 +0000",
-      "magnolia_highlands": "2025-02-09 03:38:00 +0000"
+      "magnolia_highlands": "2025-02-09 03:38:00 +0000",
+      "deciduous_forest": "2025-02-09 03:56:40 +0000",
+      "prairie": "2025-02-09 03:56:43 +0000"
     },
     "done": false
   },
@@ -596,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-02-09 03:44:12 +0000"
@@ -608,9 +618,33 @@
     },
     "done": true
   },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-02-09 04:03:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-02-09 03:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-09 04:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-09 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-02-09 04:00:20 +0000"
     },
     "done": true
   },
@@ -635,6 +669,12 @@
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-09 03:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
     },
     "done": true
   },
@@ -676,10 +716,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-09 03:57:47 +0000",
       "minecraft:spider": "2025-02-09 03:46:28 +0000",
       "minecraft:zombie": "2025-02-09 03:41:39 +0000"
     },
     "done": false
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
@@ -705,15 +752,57 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-02-09 03:55:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2025-02-09 03:38:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-02-09 04:04:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-09 03:53:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 03:38:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-09 03:54:05 +0000"
     },
     "done": true
   },
@@ -735,9 +824,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-02-09 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 03:57:08 +0000"
     },
     "done": true
   },
@@ -765,15 +866,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-09 03:59:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-02-09 03:46:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-09 03:54:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-02-09 03:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
     },
     "done": true
   },
@@ -789,6 +908,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-09 03:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-02-09 03:44:12 +0000"
@@ -798,6 +923,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-09 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
     },
     "done": true
   },
@@ -825,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-09 03:39:05 +0000"
@@ -837,6 +974,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-09 03:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-09 03:53:50 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2025-02-09 03:37:41 +0000"
@@ -846,6 +1001,12 @@
   "infinity_cave:technical/hit_match/entity_hurt_player": {
     "criteria": {
       "requirement": "2025-02-09 03:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-09 03:54:53 +0000"
     },
     "done": true
   },
@@ -879,9 +1040,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 03:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-09 03:44:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-09 03:54:54 +0000"
     },
     "done": true
   },
@@ -897,9 +1070,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-09 03:55:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_door": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 03:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-09 03:54:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 03:54:05 +0000"
     },
     "done": true
   },
@@ -945,15 +1136,39 @@
     },
     "done": true
   },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-09 03:56:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
     "criteria": {
       "has_magnolia_planks": "2025-02-09 03:38:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-09 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-02-09 03:44:12 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-09 03:55:38 +0000"
     },
     "done": true
   },
@@ -987,9 +1202,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-09 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-09 04:04:34 +0000"
     },
     "done": true
   },
@@ -1005,11 +1232,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-09 03:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-09 03:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-02-09 03:41:39 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2025-02-09 03:53:38 +0000",
+      "minecraft:stony_peaks": "2025-02-09 03:54:17 +0000"
+    },
+    "done": false
   },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
@@ -1031,6 +1277,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-09 03:56:15 +0000",
+      "cooked_beef": "2025-02-09 04:03:24 +0000",
       "rotten_flesh": "2025-02-09 03:41:58 +0000"
     },
     "done": false
@@ -1050,6 +1298,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-09 03:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-09 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-09 04:04:34 +0000"
     },
     "done": true
   },
