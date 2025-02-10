@@ -183,6 +183,7 @@
     "criteria": {
       "mauve_hills": "2025-02-09 04:36:18 +0000",
       "shrubland": "2025-02-09 04:55:58 +0000",
+      "barley_fields": "2025-02-10 19:28:27 +0000",
       "grassy_beach": "2025-02-10 18:39:24 +0000",
       "rocky_meadow": "2025-02-07 18:03:19 +0000",
       "magnolia_highlands": "2025-02-09 03:38:00 +0000",
@@ -199,6 +200,7 @@
     "criteria": {
       "mauve_hills": "2025-02-09 04:36:18 +0000",
       "shrubland": "2025-02-09 04:55:58 +0000",
+      "barley_fields": "2025-02-10 19:28:27 +0000",
       "grassy_beach": "2025-02-10 18:39:24 +0000",
       "rocky_meadow": "2025-02-07 18:03:19 +0000",
       "magnolia_highlands": "2025-02-09 03:38:00 +0000",
@@ -3977,6 +3979,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-02-10 03:42:20 +0000",
+      "entered_pillager_camp": "2025-02-10 19:28:32 +0000",
       "entered_ruined_building": "2025-02-10 18:38:47 +0000"
     },
     "done": false
@@ -4746,6 +4749,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-02-10 19:22:50 +0000"
     },
     "done": true
   },
