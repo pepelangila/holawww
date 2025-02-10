@@ -184,6 +184,7 @@
       "rocky_meadow": "2025-02-09 03:33:21 +0000",
       "magnolia_highlands": "2025-02-09 03:38:02 +0000",
       "deciduous_forest": "2025-02-09 04:17:27 +0000",
+      "grassland": "2025-02-10 02:56:21 +0000",
       "redwoods": "2025-02-09 05:41:33 +0000"
     },
     "done": false
@@ -193,6 +194,7 @@
       "rocky_meadow": "2025-02-09 03:33:21 +0000",
       "magnolia_highlands": "2025-02-09 03:38:02 +0000",
       "deciduous_forest": "2025-02-09 04:17:27 +0000",
+      "grassland": "2025-02-10 02:56:21 +0000",
       "redwoods": "2025-02-09 05:41:33 +0000"
     },
     "done": false
@@ -573,7 +575,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-02-09 03:40:52 +0000",
-      "mauve_log": "2025-02-09 05:35:52 +0000"
+      "mauve_log": "2025-02-09 05:35:52 +0000",
+      "redwood_log": "2025-02-10 02:55:38 +0000"
     },
     "done": false
   },
@@ -3336,6 +3339,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-02-10 02:56:31 +0000",
       "entered_ruined_building": "2025-02-09 05:39:10 +0000"
     },
     "done": false
@@ -3349,6 +3353,42 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-02-09 05:39:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-02-10 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-02-10 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-10 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-10 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-02-10 02:56:51 +0000"
     },
     "done": true
   },

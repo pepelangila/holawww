@@ -1383,3 +1383,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 02:51:08.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
 [10Feb2025 02:52:06.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:57284] logged in with entity id 23056 at (-729.8431237065352, 95.0, 120.21984137187324)
 [10Feb2025 02:52:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 02:53:06.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Disconnected
+[10Feb2025 02:53:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 02:55:22.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:34180] logged in with entity id 23853 at (-729.8431237065352, 95.0, 120.21984137187324)
+[10Feb2025 02:55:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 02:55:45.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Distant Dreamer]
+[10Feb2025 02:55:53.289] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:56:00.602] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:56:00.603] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:56:00.603] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:56:00.603] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:56:00.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[10Feb2025 02:56:22.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6188ms or 123 ticks behind
+[10Feb2025 02:56:40.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[10Feb2025 02:57:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
+[10Feb2025 02:57:05.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Feb2025 02:58:04.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie
+[10Feb2025 02:58:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Baby Skeleton
+[10Feb2025 02:59:25.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=90, z=6} BlockPos{x=0, y=90, z=5}
+[10Feb2025 02:59:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[10Feb2025 02:59:35.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [You've Got a Friend in Me]
+[10Feb2025 03:01:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has reached the goal [Exorcism]
+[10Feb2025 03:03:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to -748.500000, 117.000000, 214.500000]
