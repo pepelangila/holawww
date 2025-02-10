@@ -1338,3 +1338,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 01:21:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Betrayed Guzzler
 [10Feb2025 01:21:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Betrayed Guzzler
 [10Feb2025 01:51:50.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov drowned
+[10Feb2025 01:52:04.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 582.500000, 42.000000, 176.500000]
+[10Feb2025 01:53:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 582.500000, 42.000000, 176.500000]
+[10Feb2025 01:54:06.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[10Feb2025 01:54:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[10Feb2025 01:55:14.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/[::1]:38322] logged in with entity id 11193 at (582.5593225112312, 42.200000047683716, 179.15940256872784)
+[10Feb2025 01:55:14.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
+[10Feb2025 01:55:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Corpse Fish
+[10Feb2025 01:56:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 582.500000, 42.000000, 176.500000]
+[10Feb2025 02:00:42.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[10Feb2025 02:01:10.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was killed by Witch using magic
+[10Feb2025 02:01:19.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 606.500000, 53.000000, 183.500000]
