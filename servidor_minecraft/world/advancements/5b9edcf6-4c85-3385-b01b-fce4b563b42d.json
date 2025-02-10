@@ -183,7 +183,8 @@
     "criteria": {
       "rocky_meadow": "2025-02-09 03:33:21 +0000",
       "magnolia_highlands": "2025-02-09 03:38:02 +0000",
-      "deciduous_forest": "2025-02-09 04:17:27 +0000"
+      "deciduous_forest": "2025-02-09 04:17:27 +0000",
+      "redwoods": "2025-02-09 05:41:33 +0000"
     },
     "done": false
   },
@@ -191,7 +192,8 @@
     "criteria": {
       "rocky_meadow": "2025-02-09 03:33:21 +0000",
       "magnolia_highlands": "2025-02-09 03:38:02 +0000",
-      "deciduous_forest": "2025-02-09 04:17:27 +0000"
+      "deciduous_forest": "2025-02-09 04:17:27 +0000",
+      "redwoods": "2025-02-09 05:41:33 +0000"
     },
     "done": false
   },
@@ -570,7 +572,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2025-02-09 03:40:52 +0000"
+      "magnolia_log": "2025-02-09 03:40:52 +0000",
+      "mauve_log": "2025-02-09 05:35:52 +0000"
     },
     "done": false
   },
@@ -652,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-09 05:34:49 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/sausage": {
     "criteria": {
       "has_cooked_beef": "2025-02-09 04:34:24 +0000"
@@ -700,9 +709,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-02-09 05:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-09 03:51:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-02-09 05:34:48 +0000"
     },
     "done": true
   },
@@ -733,6 +754,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-09 03:51:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
     },
     "done": true
   },
@@ -814,6 +841,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-02-09 05:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-09 05:03:30 +0000"
@@ -841,6 +874,12 @@
   "faded_conquest_2:dlslain": {
     "criteria": {
       "dlslain_0": "2025-02-09 04:47:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-02-09 05:24:31 +0000"
     },
     "done": true
   },
@@ -934,6 +973,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-02-09 05:39:10 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
     "criteria": {
       "has_log": "2025-02-09 04:57:56 +0000"
@@ -964,6 +1009,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-09 05:22:38 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-02-09 05:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-09 04:57:09 +0000",
@@ -973,6 +1030,7 @@
       "minecraft:cave_spider": "2025-02-09 05:09:38 +0000",
       "minecraft:silverfish": "2025-02-09 04:43:08 +0000",
       "minecraft:zombie": "2025-02-09 03:59:02 +0000",
+      "minecraft:drowned": "2025-02-09 05:22:37 +0000",
       "minecraft:zombie_villager": "2025-02-09 05:10:28 +0000"
     },
     "done": false
@@ -1133,9 +1191,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-09 05:18:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-09 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-02-09 05:27:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-09 05:31:09 +0000"
     },
     "done": true
   },
@@ -1187,6 +1263,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
+    },
+    "done": true
+  },
   "chimes:recipes/decorations/iron_chimes": {
     "criteria": {
       "has_wood_slabs": "2025-02-09 03:51:31 +0000"
@@ -1196,6 +1278,12 @@
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-02-09 04:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-09 05:22:38 +0000"
     },
     "done": true
   },
@@ -1283,6 +1371,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-02-09 05:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-09 05:22:38 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
@@ -1355,6 +1455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-09 05:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-09 03:54:05 +0000"
@@ -1421,6 +1527,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-09 04:31:24 +0000"
@@ -1442,6 +1554,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-09 05:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-09 05:29:58 +0000"
     },
     "done": true
   },
@@ -1496,6 +1614,12 @@
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-02-09 03:56:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-09 05:27:40 +0000"
     },
     "done": true
   },
@@ -1625,6 +1749,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-09 04:58:44 +0000"
@@ -1709,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-09 05:18:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 03:53:54 +0000"
@@ -1733,9 +1869,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-09 05:26:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-09 05:39:18 +0000"
     },
     "done": true
   },
@@ -1757,6 +1905,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-02-09 05:35:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-09 05:31:09 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-02-09 05:03:30 +0000"
@@ -1766,6 +1926,12 @@
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:39:22 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
     },
     "done": true
   },
@@ -2021,6 +2187,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-09 05:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
@@ -2039,6 +2211,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-02-09 05:27:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-09 04:41:27 +0000"
@@ -2054,6 +2238,12 @@
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-09 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
     },
     "done": true
   },
@@ -2087,6 +2277,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-09 05:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-09 05:27:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-09 03:53:54 +0000"
@@ -2105,9 +2307,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 05:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-09 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-02-09 05:35:52 +0000"
     },
     "done": true
   },
@@ -2237,6 +2451,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-02-09 05:39:10 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2025-02-09 05:02:51 +0000"
@@ -2270,6 +2490,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-09 04:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-09 05:26:47 +0000"
     },
     "done": true
   },
@@ -2357,6 +2583,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:39:22 +0000"
@@ -2396,6 +2628,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-09 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
     },
     "done": true
   },
@@ -2459,6 +2697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-09 05:18:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
@@ -2474,6 +2718,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-09 05:26:47 +0000"
     },
     "done": true
   },
@@ -2504,6 +2754,12 @@
   "bakery:recipes/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
     },
     "done": true
   },
@@ -2567,6 +2823,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-09 05:34:49 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:39:22 +0000"
@@ -2576,6 +2844,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-02-09 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-09 05:26:47 +0000"
     },
     "done": true
   },
@@ -2609,6 +2883,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-09 05:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-09 03:54:05 +0000"
@@ -2618,6 +2898,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-09 04:57:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-09 05:31:09 +0000"
     },
     "done": true
   },
@@ -2699,9 +2985,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-09 05:34:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-02-09 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-09 05:34:49 +0000"
     },
     "done": true
   },
@@ -2714,6 +3012,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-09 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 05:34:49 +0000"
     },
     "done": true
   },
@@ -2732,6 +3036,24 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-09 05:14:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
     },
     "done": true
   },
@@ -2787,7 +3109,9 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-02-09 04:17:36 +0000",
       "minecraft:stony_peaks": "2025-02-09 03:57:50 +0000",
+      "minecraft:river": "2025-02-09 05:20:44 +0000",
       "minecraft:forest": "2025-02-09 04:17:41 +0000",
+      "minecraft:jungle": "2025-02-09 05:40:14 +0000",
       "minecraft:meadow": "2025-02-09 05:00:08 +0000",
       "minecraft:plains": "2025-02-09 04:53:00 +0000"
     },
@@ -2802,6 +3126,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-09 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-09 05:22:04 +0000"
     },
     "done": true
   },
@@ -2847,13 +3177,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-02-09 05:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-09 04:19:23 +0000",
       "cooked_beef": "2025-02-09 04:34:27 +0000",
       "potato": "2025-02-09 04:43:35 +0000",
+      "bread": "2025-02-09 05:25:22 +0000",
       "rotten_flesh": "2025-02-09 04:44:46 +0000",
-      "cooked_chicken": "2025-02-09 04:22:56 +0000"
+      "golden_carrot": "2025-02-09 05:39:27 +0000",
+      "cooked_chicken": "2025-02-09 04:22:56 +0000",
+      "mushroom_stew": "2025-02-09 05:31:09 +0000"
     },
     "done": false
   },
@@ -2905,6 +3244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-09 05:29:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-09 03:51:34 +0000"
@@ -2914,6 +3259,18 @@
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-02-09 03:51:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-09 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2025-02-09 05:36:15 +0000"
     },
     "done": true
   },
@@ -2941,6 +3298,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-09 05:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 03:51:31 +0000"
@@ -2962,6 +3325,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-09 04:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-09 05:21:22 +0000"
     },
     "done": true
   },
