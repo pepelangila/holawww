@@ -4209,6 +4209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-02-10 19:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
@@ -4428,6 +4434,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-10 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-10 19:09:24 +0000"
     },
     "done": true
   },
@@ -4722,6 +4734,12 @@
   "vinery:recipes/dark_cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-10 19:09:24 +0000"
     },
     "done": true
   },

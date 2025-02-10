@@ -6824,3 +6824,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 19:04:22.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
 [10Feb2025 19:09:22.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
 [10Feb2025 19:09:22.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[10Feb2025 19:14:22.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[10Feb2025 19:14:22.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[10Feb2025 19:16:29.350] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Feb2025 19:18:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Lifestealer
+[10Feb2025 19:18:08.678] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[10Feb2025 19:18:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1364.500000, 62.000000, -1492.500000]
+[10Feb2025 19:19:22.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[10Feb2025 19:19:22.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[10Feb2025 19:19:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov withered away
+[10Feb2025 19:19:36.219] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
+[10Feb2025 19:19:43.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1371.500000, 62.000000, -1498.500000]
