@@ -1454,3 +1454,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 03:31:58.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
 [10Feb2025 03:31:58.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
 [10Feb2025 03:33:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 962.500000, 76.000000, 88.500000]
+[10Feb2025 03:34:43.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:42776] logged in with entity id 35716 at (-7.205404761613713, 98.0, 54.24428299102364)
+[10Feb2025 03:34:43.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 03:34:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:35:16.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[10Feb2025 03:35:16.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 03:35:24.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 962.500000, 76.000000, 88.500000]
+[10Feb2025 03:35:47.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> zzzzz
+[10Feb2025 03:38:44.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:60560] logged in with entity id 37038 at (-7.205404761613713, 98.0, 54.24428299102364)
+[10Feb2025 03:38:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 03:39:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:39:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiomy_zzz> XDoe topp
+[10Feb2025 03:39:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xiomy_zzz> tpp
+[10Feb2025 03:39:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> a donde xsd
+[10Feb2025 03:39:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by MacacoEliTrulov
+[10Feb2025 03:40:03.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[10Feb2025 03:41:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to -745.500000, 91.000000, 161.500000]
+[10Feb2025 03:41:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:42:36.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
