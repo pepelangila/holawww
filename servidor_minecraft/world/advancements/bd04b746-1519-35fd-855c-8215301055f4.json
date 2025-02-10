@@ -3958,9 +3958,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-10 03:45:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-10 03:45:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
     "criteria": {
       "has_log": "2025-02-10 03:27:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-02-10 03:45:04 +0000"
     },
     "done": true
   },
@@ -3973,6 +3991,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-02-10 03:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-10 03:45:24 +0000"
     },
     "done": true
   },

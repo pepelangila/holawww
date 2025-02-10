@@ -1472,3 +1472,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 03:41:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to -745.500000, 91.000000, 161.500000]
 [10Feb2025 03:41:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
 [10Feb2025 03:42:36.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:44:08.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:44:40.294] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.295] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.296] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.298] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.300] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.300] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.301] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.302] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:44:40.305] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 03:46:39.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> ZZZZ
+[10Feb2025 03:46:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[10Feb2025 03:48:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set the weather to clear]
+[10Feb2025 03:49:04.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:53:58.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [It Belongs in a Museum]
+[10Feb2025 03:54:44.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[10Feb2025 03:54:44.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[10Feb2025 03:55:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Into Fire]
+[10Feb2025 03:59:00.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz couldn't take Pyromancer's heat
+[10Feb2025 04:05:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz couldn't take Pyromancer's heat
+[10Feb2025 04:05:39.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was toasted by Pyromancer's flaming breath
+[10Feb2025 04:06:15.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz couldn't take Pyromancer's heat
+[10Feb2025 04:06:31.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was toasted by Pyromancer's flaming breath
+[10Feb2025 04:09:03.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Grave Ravager]
+[10Feb2025 04:09:17.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz has made the advancement [Dark Metallurgy]
+[10Feb2025 04:10:27.237] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 04:10:27.237] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 04:10:27.238] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 04:10:27.238] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 04:13:10.383] [Worker-Main-80/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[10Feb2025 04:13:46.569] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[10Feb2025 04:14:47.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz fell from a high place
+[10Feb2025 04:15:18.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[10Feb2025 04:15:18.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 04:23:46.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:38180] logged in with entity id 49406 at (0.699999988079071, 97.0, 53.92847081319394)
+[10Feb2025 04:23:46.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
