@@ -187,7 +187,8 @@
       "magnolia_highlands": "2025-02-09 03:38:00 +0000",
       "deciduous_forest": "2025-02-09 03:56:40 +0000",
       "temperate_grove": "2025-02-09 04:55:37 +0000",
-      "prairie": "2025-02-09 03:56:43 +0000"
+      "prairie": "2025-02-09 03:56:43 +0000",
+      "redwoods": "2025-02-10 03:08:56 +0000"
     },
     "done": false
   },
@@ -199,7 +200,8 @@
       "magnolia_highlands": "2025-02-09 03:38:00 +0000",
       "deciduous_forest": "2025-02-09 03:56:40 +0000",
       "temperate_grove": "2025-02-09 04:55:37 +0000",
-      "prairie": "2025-02-09 03:56:43 +0000"
+      "prairie": "2025-02-09 03:56:43 +0000",
+      "redwoods": "2025-02-10 03:08:56 +0000"
     },
     "done": false
   },
@@ -668,7 +670,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2025-02-09 03:38:13 +0000"
+      "magnolia_log": "2025-02-09 03:38:13 +0000",
+      "redwood_log": "2025-02-10 03:09:16 +0000"
     },
     "done": false
   },
@@ -902,6 +905,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-10 03:06:58 +0000",
       "minecraft:skeleton": "2025-02-09 03:57:47 +0000",
       "minecraft:vindicator": "2025-02-09 05:15:46 +0000",
       "minecraft:spider": "2025-02-09 03:46:28 +0000",
@@ -3638,9 +3642,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-02-10 02:59:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-02-10 03:09:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 02:41:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-10 03:06:07 +0000"
     },
     "done": true
   },
@@ -3668,9 +3690,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 02:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
     },
     "done": true
   },
@@ -3686,15 +3720,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-02-10 03:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 02:41:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 02:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
     },
     "done": true
   },
@@ -3710,9 +3768,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-02-10 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
     },
     "done": true
   },
@@ -3746,9 +3816,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-02-10 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-02-10 03:04:26 +0000"
     },
     "done": true
   },
@@ -3758,15 +3840,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-02-10 03:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 02:41:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-10 03:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-10 03:09:16 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_stem": {
     "criteria": {
       "has_oak_log": "2025-02-10 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-10 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-02-10 03:01:02 +0000"
     },
     "done": true
   },
@@ -3781,6 +3905,18 @@
       "in_better_spider_dungeon": "2025-02-10 02:35:40 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 03:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-10 03:15:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {

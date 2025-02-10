@@ -1405,3 +1405,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 02:59:35.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [You've Got a Friend in Me]
 [10Feb2025 03:01:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has reached the goal [Exorcism]
 [10Feb2025 03:03:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to -748.500000, 117.000000, 214.500000]
+[10Feb2025 03:03:34.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Feb2025 03:03:54.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[10Feb2025 03:04:11.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[10Feb2025 03:04:31.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[10Feb2025 03:04:49.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Feb2025 03:05:11.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Feb2025 03:06:58.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['.'/27916, l='ServerLevel[eeeeee]', x=635.19, y=118.88, z=70.60] died: . was slain by MacacoEliTrulov
+[10Feb2025 03:08:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:08:56.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Distant Dreamer]
+[10Feb2025 03:09:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:15:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[10Feb2025 03:15:55.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Skeleton
+[10Feb2025 03:16:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Spider
+[10Feb2025 03:16:27.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[10Feb2025 03:16:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:19:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Skeleton
+[10Feb2025 03:20:03.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:20:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was shot by Missionary
+[10Feb2025 03:20:43.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[10Feb2025 03:21:01.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:21:03.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie Bruiser
+[10Feb2025 03:21:18.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported xiomy_zzz to MacacoEliTrulov]
+[10Feb2025 03:22:18.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie Bruiser
+[10Feb2025 03:22:33.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[10Feb2025 03:22:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
