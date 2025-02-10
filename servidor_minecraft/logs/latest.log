@@ -1350,3 +1350,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 17:06:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1030.500000, 93.000000, 237.500000]
 [10Feb2025 17:06:20.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was shot by Skeleton
 [10Feb2025 17:06:26.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1031.500000, 95.000000, 237.500000]
+[10Feb2025 17:28:49.941] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 17:28:49.942] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 17:28:49.942] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 17:28:49.942] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 17:31:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov blew up
+[10Feb2025 17:31:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1116.500000, -34.000000, -273.500000]
+[10Feb2025 17:34:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:34:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1117.500000, -35.000000, -272.500000]
+[10Feb2025 17:34:34.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:34:42.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1113.500000, -32.000000, -267.500000]
+[10Feb2025 17:35:01.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:35:07.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1118.500000, -37.000000, -270.500000]
+[10Feb2025 17:35:12.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:35:17.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1118.500000, -37.000000, -270.500000]
+[10Feb2025 17:35:46.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:35:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1116.500000, -34.000000, -261.500000]
+[10Feb2025 17:35:58.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:36:03.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1118.500000, -37.000000, -270.500000]
+[10Feb2025 17:36:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:36:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1118.500000, -37.000000, -270.500000]
+[10Feb2025 17:37:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:37:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1114.500000, -31.000000, -275.500000]
+[10Feb2025 17:37:24.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:37:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1116.500000, -34.000000, -261.500000]
