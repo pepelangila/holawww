@@ -1367,3 +1367,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 02:31:53.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> zzzzz
 [10Feb2025 02:35:40.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Cobweb Entanglement]
 [10Feb2025 02:37:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Wild Grapes]
+[10Feb2025 02:46:59.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Snake
+[10Feb2025 02:49:34.716] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4be9edd1[id=<null>,name=xiomy_zzz,properties={},legacy=false] (/[::1]:60548): Took too long to log in
+[10Feb2025 02:49:34.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4be9edd1[id=<null>,name=xiomy_zzz,properties={},legacy=false] (/[::1]:60548) lost connection: Took too long to log in
+[10Feb2025 02:49:34.761] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 02:49:49.607] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7eb5f4e3[id=<null>,name=xiomy_zzz,properties={},legacy=false] (/[::1]:52040) lost connection: Timed out
+[10Feb2025 02:50:08.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:39234] logged in with entity id 22583 at (-729.8431237065352, 95.0, 120.21984137187324)
+[10Feb2025 02:50:08.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 02:50:14.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5740ms or 114 ticks behind
+[10Feb2025 02:50:32.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[10Feb2025 02:50:51.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3331ms or 66 ticks behind
+[10Feb2025 02:51:06.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Disconnected
+[10Feb2025 02:51:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 02:51:06.369] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 02:51:08.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
+[10Feb2025 02:52:06.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:57284] logged in with entity id 23056 at (-729.8431237065352, 95.0, 120.21984137187324)
+[10Feb2025 02:52:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
