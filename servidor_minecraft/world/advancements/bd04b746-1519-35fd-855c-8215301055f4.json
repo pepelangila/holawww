@@ -183,6 +183,7 @@
     "criteria": {
       "mauve_hills": "2025-02-09 04:36:18 +0000",
       "shrubland": "2025-02-09 04:55:58 +0000",
+      "grassy_beach": "2025-02-10 18:39:24 +0000",
       "rocky_meadow": "2025-02-07 18:03:19 +0000",
       "magnolia_highlands": "2025-02-09 03:38:00 +0000",
       "deciduous_forest": "2025-02-09 03:56:40 +0000",
@@ -198,6 +199,7 @@
     "criteria": {
       "mauve_hills": "2025-02-09 04:36:18 +0000",
       "shrubland": "2025-02-09 04:55:58 +0000",
+      "grassy_beach": "2025-02-10 18:39:24 +0000",
       "rocky_meadow": "2025-02-07 18:03:19 +0000",
       "magnolia_highlands": "2025-02-09 03:38:00 +0000",
       "deciduous_forest": "2025-02-09 03:56:40 +0000",
@@ -981,6 +983,7 @@
       "cooked_mutton": "2025-02-09 04:19:15 +0000",
       "sweet_berries": "2025-02-09 04:57:46 +0000",
       "cooked_beef": "2025-02-09 04:03:24 +0000",
+      "pumpkin_pie": "2025-02-10 18:44:08 +0000",
       "bread": "2025-02-09 05:13:24 +0000",
       "rotten_flesh": "2025-02-09 03:41:58 +0000",
       "glow_berries": "2025-02-10 01:12:51 +0000",
@@ -3971,7 +3974,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_tower_of_the_undead": "2025-02-10 03:42:20 +0000"
+      "entered_tower_of_the_undead": "2025-02-10 03:42:20 +0000",
+      "entered_ruined_building": "2025-02-10 18:38:47 +0000"
     },
     "done": false
   },
@@ -4254,6 +4258,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-10 18:19:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-10 18:48:24 +0000"
     },
     "done": true
   },
