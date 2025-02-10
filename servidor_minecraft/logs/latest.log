@@ -1430,3 +1430,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 03:22:18.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz was slain by Zombie Bruiser
 [10Feb2025 03:22:33.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
 [10Feb2025 03:22:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[10Feb2025 03:23:41.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/[::1]:59386] logged in with entity id 32772 at (-802.1294042710553, 94.0, 127.23225734054145)
+[10Feb2025 03:23:41.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
+[10Feb2025 03:24:29.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:24:40.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[10Feb2025 03:24:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 03:25:31.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 962.500000, 76.000000, 88.500000]
+[10Feb2025 03:25:46.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:39956] logged in with entity id 33829 at (-7.205404761613713, 98.0, 54.24428299102364)
+[10Feb2025 03:25:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 03:26:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to xiomy_zzz]
+[10Feb2025 03:26:46.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[10Feb2025 03:26:46.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 03:26:46.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:39130] logged in with entity id 34092 at (-7.205404761613713, 98.0, 54.24428299102364)
+[10Feb2025 03:26:46.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 03:27:46.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Disconnected
+[10Feb2025 03:27:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 03:29:06.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:52432] logged in with entity id 34451 at (-7.205404761613713, 98.0, 54.24428299102364)
+[10Feb2025 03:29:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 03:30:06.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[10Feb2025 03:30:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 03:30:58.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xiomy_zzz[/[::1]:52310] logged in with entity id 34713 at (-7.205404761613713, 98.0, 54.24428299102364)
+[10Feb2025 03:30:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz joined the game
+[10Feb2025 03:31:58.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xiomy_zzz lost connection: Timed out
+[10Feb2025 03:31:58.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xiomy_zzz left the game
+[10Feb2025 03:33:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 962.500000, 76.000000, 88.500000]
