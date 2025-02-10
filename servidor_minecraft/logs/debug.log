@@ -6491,3 +6491,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 17:57:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie Lumberjack
 [10Feb2025 17:57:17.841] [Server thread/DEBUG] [twilightforest/]: Player MacacoEliTrulov (bd04b746-1519-35fd-855c-8215301055f4) respawned and received items held in storage
 [10Feb2025 17:57:22.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1076.500000, -37.000000, -214.500000]
+[10Feb2025 17:59:03.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[10Feb2025 17:59:03.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee
+[10Feb2025 18:02:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Alex's Caves]
+[10Feb2025 18:02:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [It Belongs in a Museum]
+[10Feb2025 18:02:27.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Once Upon a Cave]
+[10Feb2025 18:03:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set own game mode to Spectator Mode]
+[10Feb2025 18:03:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set own game mode to Survival Mode]
+[10Feb2025 18:04:03.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save eeeeee
+[10Feb2025 18:04:03.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete eeeeee

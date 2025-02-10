@@ -1388,3 +1388,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 17:56:59.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1085.500000, -40.000000, -213.500000]
 [10Feb2025 17:57:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Zombie Lumberjack
 [10Feb2025 17:57:22.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1076.500000, -37.000000, -214.500000]
+[10Feb2025 18:02:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Alex's Caves]
+[10Feb2025 18:02:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [It Belongs in a Museum]
+[10Feb2025 18:02:27.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Once Upon a Cave]
+[10Feb2025 18:03:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set own game mode to Spectator Mode]
+[10Feb2025 18:03:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set own game mode to Survival Mode]
