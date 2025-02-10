@@ -1374,3 +1374,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 17:37:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1114.500000, -31.000000, -275.500000]
 [10Feb2025 17:37:24.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
 [10Feb2025 17:37:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1116.500000, -34.000000, -261.500000]
+[10Feb2025 17:41:54.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:42:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1126.500000, -34.000000, -271.500000]
+[10Feb2025 17:42:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Crawler
+[10Feb2025 17:42:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to -1119.500000, -34.000000, -271.500000]
+[10Feb2025 17:43:09.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Simple Dungeon Room]
