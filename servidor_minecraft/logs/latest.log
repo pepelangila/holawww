@@ -1349,3 +1349,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 02:00:42.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [10Feb2025 02:01:10.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was killed by Witch using magic
 [10Feb2025 02:01:19.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 606.500000, 53.000000, 183.500000]
+[10Feb2025 02:04:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set own game mode to Spectator Mode]
+[10Feb2025 02:05:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Set own game mode to Survival Mode]
+[10Feb2025 02:27:57.957] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.961] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.977] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.978] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.979] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.979] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.980] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:27:57.981] [Worker-Main-48/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Feb2025 02:28:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Ice Bucket Challenge]
+[10Feb2025 02:30:32.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[10Feb2025 02:30:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[10Feb2025 02:31:12.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/[::1]:51520] logged in with entity id 18446 at (922.764174927066, 96.0, 90.66407125753604)
+[10Feb2025 02:31:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
+[10Feb2025 02:31:53.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MacacoEliTrulov> zzzzz
+[10Feb2025 02:35:40.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Cobweb Entanglement]
+[10Feb2025 02:37:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Wild Grapes]
