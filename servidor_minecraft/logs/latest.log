@@ -1330,3 +1330,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [10Feb2025 01:04:31.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/[::1]:55162] logged in with entity id 185 at (562.5318438700165, 43.0, 127.43998721304962)
 [10Feb2025 01:04:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
 [10Feb2025 01:04:34.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[10Feb2025 01:11:38.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Dread Hound
+[10Feb2025 01:11:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MacacoEliTrulov: Teleported MacacoEliTrulov to 572.500000, 43.000000, 159.500000]
+[10Feb2025 01:16:46.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov has made the advancement [Crops of the Wild]
+[10Feb2025 01:21:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Betrayed Guzzler
+[10Feb2025 01:21:10.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[10Feb2025 01:21:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Betrayed Guzzler
+[10Feb2025 01:21:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Betrayed Guzzler
+[10Feb2025 01:51:50.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov drowned
