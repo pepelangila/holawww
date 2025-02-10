@@ -925,6 +925,7 @@
       "minecraft:stray": "2025-02-09 04:45:34 +0000",
       "minecraft:enderman": "2025-02-10 01:30:54 +0000",
       "minecraft:zombie": "2025-02-09 03:41:39 +0000",
+      "minecraft:drowned": "2025-02-10 18:59:04 +0000",
       "minecraft:zombie_villager": "2025-02-09 05:11:03 +0000"
     },
     "done": false
@@ -4016,6 +4017,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
@@ -4028,6 +4041,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-02-10 17:31:55 +0000"
@@ -4037,6 +4056,18 @@
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-02-10 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4058,6 +4089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "soul_campfire": "2025-02-10 18:55:53 +0000"
@@ -4073,6 +4110,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4103,6 +4146,12 @@
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-02-10 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4139,6 +4188,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-10 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4196,6 +4257,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2025-02-10 17:20:35 +0000"
@@ -4226,9 +4299,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4256,6 +4353,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_trapdoor": {
     "criteria": {
       "has_redwood_planks": "2025-02-10 17:10:06 +0000"
@@ -4265,6 +4374,12 @@
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-02-10 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4292,9 +4407,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4307,6 +4434,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-10 18:19:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4340,6 +4473,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-10 17:03:34 +0000"
@@ -4367,6 +4512,12 @@
   "regions_unexplored:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_redwood_planks": "2025-02-10 17:10:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4400,15 +4551,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-02-10 17:27:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-10 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4424,9 +4593,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-02-10 17:10:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
@@ -4472,6 +4659,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-02-10 17:13:35 +0000"
@@ -4502,6 +4695,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-10 17:18:54 +0000"
@@ -4520,6 +4719,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
@@ -4535,6 +4740,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 17:30:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-10 19:00:20 +0000"
     },
     "done": true
   },
