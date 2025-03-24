@@ -1325,3 +1325,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [24Mar2025 22:48:30.582] [Server thread/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod is now running on a server. Please report any error or bugs.
 [24Mar2025 22:53:21.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/10.244.90.8:58457] logged in with entity id 159 at (-1321.300000011921, 60.0, -1542.300000011921)
 [24Mar2025 22:53:21.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
+[24Mar2025 22:59:36.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MacacoEliTrulov lost connection: Timed out
+[24Mar2025 22:59:36.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov left the game
+[24Mar2025 23:06:50.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MacacoEliTrulov[/10.244.90.8:58616] logged in with entity id 1303 at (-1324.167684053876, 63.0, -1543.6577024806106)
+[24Mar2025 23:06:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov joined the game
