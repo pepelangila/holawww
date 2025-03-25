@@ -4814,15 +4814,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-03-25 00:56:17 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-03-25 00:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-25 00:56:17 +0000"
     },
     "done": true
   },
@@ -4850,12 +4850,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-03-25 00:56:26 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-03-25 00:56:17 +0000"
@@ -4880,12 +4874,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-25 00:56:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-25 00:56:17 +0000"
@@ -4895,6 +4883,18 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-03-25 00:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-03-25 00:56:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-25 00:56:50 +0000"
     },
     "done": true
   },
