@@ -1,2 +1,7 @@
 [25Mar2025 00:18:20.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [25Mar2025 00:18:50.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Mar2025 00:46:25.373] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[25Mar2025 00:46:25.409] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[25Mar2025 00:46:25.439] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[25Mar2025 00:46:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was shot by Skeleton
+[25Mar2025 00:47:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MacacoEliTrulov was slain by Dread Hound
